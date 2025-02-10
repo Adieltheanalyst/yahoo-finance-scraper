@@ -1,0 +1,752 @@
+Symbol,Name,Link,Price_intraday,Change,Change_pct,Volume,YTD_Return,Three_Months_Return,One_Year_Return,Three_Year_Return,Five_Year_Return,Net_Expense_Ratio,Gross_Expense_Ratio,Rating
+VXUS,Vanguard Total International Stock Index Fund ETF Shares,https://finance.yahoo.com/chart/VXUS,59.02,+0.69,+1.18%,2.788M,+0.15%,-4.91%,+15.56%,+8.69%,+21.58%,0.18,0.18,3 stars
+BND,Vanguard Total Bond Market Index Fund,https://finance.yahoo.com/chart/BND,71.79,+0.57,+0.80%,5.477M,-0.17%,-2.15%,+5.70%,-1.66%,+8.71%,0.03,0.03,3 stars
+QQQ,Invesco QQQ Trust,https://finance.yahoo.com/chart/QQQ,516.70,+11.62,+2.30%,30.555M,+1.07%,+5.43%,+54.76%,+27.24%,+39.12%,0.20,0.20,5 stars
+BNDX,Vanguard Total International Bond Index Fund,https://finance.yahoo.com/chart/BNDX,48.72,+0.30,+0.62%,2.275M,-0.67%,-0.34%,+8.90%,-2.20%,+7.88%,0.13,0.13,4 stars
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,https://finance.yahoo.com/chart/VTIP,48.65,+0.13,+0.27%,1.269M,+0.48%,+0.52%,+4.62%,+5.32%,+4.83%,0.14,0.14,4 stars
+IBIT,iShares Bitcoin Trust,https://finance.yahoo.com/chart/IBIT,56.64,+1.81,+3.30%,39.621M,--,--,--,--,--,0.25,0.25,0 star
+TLT,iShares 20+ Year Treasury Bond ETF,https://finance.yahoo.com/chart/TLT,86.76,+1.47,+1.72%,42.477M,-0.65%,-7.59%,+2.96%,-4.76%,+14.93%,0.15,0.15,2 stars
+VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,https://finance.yahoo.com/chart/VCIT,80.00,+0.75,+0.95%,7.882M,-0.34%,-2.16%,+8.92%,-1.46%,+13.97%,0.05,0.05,4 stars
+VCSH,Vanguard Short-Term Corporate Bond Index Fund ETF Shares,https://finance.yahoo.com/chart/VCSH,78.07,+0.29,+0.37%,2.232M,+0.08%,+0.09%,+6.23%,-0.41%,+6.85%,0.04,0.04,4 stars
+QQQM,Invesco NASDAQ 100 ETF,https://finance.yahoo.com/chart/QQQM,212.66,+4.71,+2.26%,1.88M,--,--,--,--,--,0.15,0.15,0 star
+VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,https://finance.yahoo.com/chart/VGIT,57.89,+0.42,+0.73%,2.514M,-0.19%,-1.79%,+4.42%,-2.57%,+6.31%,0.04,0.04,4 stars
+IXUS,iShares Core MSCI Total International Stock ETF,https://finance.yahoo.com/chart/IXUS,66.24,+0.81,+1.24%,1.247M,+0.15%,-4.87%,+15.62%,+8.52%,+21.85%,0.07,0.07,3 stars
+MBB,iShares MBS ETF,https://finance.yahoo.com/chart/MBB,91.41,+0.95,+1.05%,3.364M,-0.29%,-2.28%,+4.99%,-1.27%,+6.27%,0.05,0.05,3 stars
+VONG,Vanguard Russell 1000 Growth Index Fund ETF Shares,https://finance.yahoo.com/chart/VONG,104.17,+2.41,+2.37%,5.561M,+0.84%,+6.65%,+42.63%,+27.50%,+36.29%,0.08,0.08,5 stars
+IUSB,iShares Core Total USD Bond Market ETF,https://finance.yahoo.com/chart/IUSB,45.10,+0.35,+0.78%,3.328M,-0.22%,-1.95%,+6.20%,-1.28%,+9.26%,0.06,0.06,3 stars
+IEF,iShares 7-10 Year Treasury Bond ETF,https://finance.yahoo.com/chart/IEF,92.16,+0.96,+1.05%,6.819M,-0.31%,-3.27%,+3.58%,-3.27%,+8.38%,0.15,0.15,5 stars
+VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares,https://finance.yahoo.com/chart/VGSH,58.23,+0.13,+0.22%,1.786M,+0.09%,+0.46%,+4.31%,-0.64%,+3.52%,0.04,0.04,4 stars
+TQQQ,ProShares UltraPro QQQ,https://finance.yahoo.com/chart/TQQQ,80.97,+5.21,+6.88%,51.698M,+2.21%,+10.91%,+198.20%,+82.30%,+133.93%,0.97,0.97,0 star
+SMH,VanEck Semiconductor ETF,https://finance.yahoo.com/chart/SMH,251.21,+5.77,+2.35%,5.306M,+3.73%,+2.08%,+73.22%,+42.24%,+64.49%,0.35,0.35,5 stars
+SHY,iShares 1-3 Year Treasury Bond ETF,https://finance.yahoo.com/chart/SHY,82.05,+0.18,+0.22%,3.693M,+0.09%,+0.42%,+4.15%,-0.73%,+3.42%,0.15,0.15,3 stars
+IUSG,iShares Core S&P U.S. Growth ETF,https://finance.yahoo.com/chart/IUSG,141.35,+3.14,+2.27%,"424,616",+1.44%,+6.23%,+29.27%,+31.29%,+30.78%,0.04,0.04,3 stars
+VMBS,Vanguard Mortgage-Backed Securities Index Fund ETF Shares,https://finance.yahoo.com/chart/VMBS,45.20,+0.43,+0.96%,1.715M,-0.31%,-1.91%,+5.04%,-1.32%,+6.17%,0.04,0.04,4 stars
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/IGSB,51.76,+0.20,+0.39%,2.488M,+0.12%,+0.08%,+6.42%,-0.49%,+7.01%,0.04,0.04,4 stars
+JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,https://finance.yahoo.com/chart/JEPQ,56.85,+1.09,+1.95%,4.944M,--,--,--,--,--,0.35,0.35,0 star
+DVY,iShares Select Dividend ETF,https://finance.yahoo.com/chart/DVY,132.80,+1.68,+1.28%,"394,939",+1.15%,-1.11%,+1.09%,+31.63%,+22.66%,0.38,0.38,3 stars
+IUSV,iShares Core S&P U.S. Value ETF,https://finance.yahoo.com/chart/IUSV,93.56,+1.13,+1.22%,"464,412",+1.05%,-2.42%,+21.77%,+25.20%,+31.48%,0.04,0.04,4 stars
+ACWI,iShares MSCI ACWI ETF,https://finance.yahoo.com/chart/ACWI,118.58,+1.90,+1.63%,2.153M,+0.92%,+0.09%,+22.22%,+18.38%,+26.70%,0.32,0.32,4 stars
+SHV,iShares Short Treasury Bond ETF,https://finance.yahoo.com/chart/SHV,110.28,+0.02,+0.02%,9.262M,+0.15%,+1.13%,+5.04%,-0.11%,+2.33%,0.15,0.15,2 stars
+EMXC,iShares MSCI Emerging Markets ex China ETF,https://finance.yahoo.com/chart/EMXC,56.03,+0.76,+1.38%,2.742M,+1.05%,-5.53%,+18.71%,+8.67%,+15.65%,0.25,0.25,4 stars
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/IGIB,51.35,+0.48,+0.94%,1.542M,-0.31%,-2.14%,+9.17%,-1.65%,+14.37%,0.04,0.04,4 stars
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,https://finance.yahoo.com/chart/DGRW,81.91,+1.16,+1.44%,"563,037",+1.21%,-2.17%,+18.67%,+24.43%,+29.55%,0.28,0.28,3 stars
+VCLT,Vanguard Long-Term Corporate Bond Index Fund ETF Shares,https://finance.yahoo.com/chart/VCLT,74.31,+1.15,+1.57%,2.117M,-0.63%,-5.55%,+11.10%,-1.15%,+23.20%,0.04,0.04,4 stars
+IEI,iShares 3-7 Year Treasury Bond ETF,https://finance.yahoo.com/chart/IEI,115.37,+0.72,+0.63%,2.02M,-0.16%,-1.41%,+4.42%,-2.51%,+5.78%,0.15,0.15,5 stars
+PFF,iShares Preferred and Income Securities ETF,https://finance.yahoo.com/chart/PFF,31.71,+0.58,+1.86%,4.69M,+0.86%,-3.73%,+9.32%,+7.09%,+15.62%,0.46,0.46,3 stars
+VGLT,Vanguard Long-Term Treasury Index Fund ETF Shares,https://finance.yahoo.com/chart/VGLT,54.88,+0.89,+1.65%,2.02M,-0.85%,-6.98%,+3.71%,-5.03%,+14.31%,0.04,0.04,3 stars
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,https://finance.yahoo.com/chart/EMB,89.79,+1.02,+1.15%,6.144M,+0.84%,-1.31%,+10.58%,-2.45%,+15.57%,0.39,0.39,3 stars
+SOXX,iShares Semiconductor ETF,https://finance.yahoo.com/chart/SOXX,223.21,+4.25,+1.94%,2.899M,+3.58%,-1.67%,+66.90%,+44.00%,+62.37%,0.35,0.35,5 stars
+ESGU,iShares ESG Aware MSCI USA ETF,https://finance.yahoo.com/chart/ESGU,130.55,+2.32,+1.81%,"617,819",+1.34%,+2.74%,+25.72%,+26.78%,+32.21%,0.15,0.15,3 stars
+VTWO,Vanguard Russell 2000 Index Fund ETF Shares,https://finance.yahoo.com/chart/VTWO,90.60,+1.72,+1.94%,1.153M,+1.42%,+0.80%,+17.00%,+14.81%,+25.61%,0.10,0.10,3 stars
+RDVY,First Trust Rising Dividend Achievers ETF,https://finance.yahoo.com/chart/RDVY,61.67,+1.11,+1.83%,1.183M,+4.28%,+3.42%,+20.43%,+31.17%,+37.61%,0.49,0.49,5 stars
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/USIG,50.16,+0.46,+0.93%,1.446M,-0.24%,-2.31%,+8.70%,-1.29%,+14.16%,0.04,0.04,3 stars
+VONV,Vanguard Russell 1000 Value Index Fund ETF Shares,https://finance.yahoo.com/chart/VONV,82.94,+0.93,+1.13%,"357,877",+2.08%,-0.93%,+11.42%,+25.06%,+26.50%,0.08,0.08,3 stars
+FTCS,First Trust Capital Strength ETF,https://finance.yahoo.com/chart/FTCS,88.20,+0.68,+0.78%,"248,799",+0.43%,-3.91%,+8.59%,+26.62%,+26.73%,0.54,0.54,2 stars
+QYLD,Global X NASDAQ 100 Covered Call ETF,https://finance.yahoo.com/chart/QYLD,18.51,+0.34,+1.87%,7.05M,+1.59%,+5.56%,+22.82%,+10.34%,+22.99%,0.61,0.61,4 stars
+SCZ,iShares MSCI EAFE Small-Cap ETF,https://finance.yahoo.com/chart/SCZ,60.24,+0.96,+1.62%,"643,233",-0.84%,-6.08%,+12.90%,+10.02%,+24.73%,0.40,0.40,3 stars
+VYMI,Vanguard International High Dividend Yield Index Fund ETF Shares,https://finance.yahoo.com/chart/VYMI,68.32,+0.78,+1.15%,"333,263",+0.65%,-3.64%,+16.88%,+15.00%,+18.31%,0.22,0.22,4 stars
+ESGD,iShares ESG Aware MSCI EAFE ETF,https://finance.yahoo.com/chart/ESGD,76.49,+0.97,+1.28%,"226,375",+0.46%,-5.04%,+18.08%,+11.60%,+23.45%,0.21,0.21,3 stars
+VONE,Vanguard Russell 1000 Index Fund ETF Shares,https://finance.yahoo.com/chart/VONE,270.13,+4.67,+1.76%,"78,878",+1.28%,+2.93%,+26.49%,+26.38%,+31.36%,0.08,0.08,4 stars
+SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,https://finance.yahoo.com/chart/SDVY,37.31,+0.71,+1.94%,1.395M,+4.07%,+2.00%,+28.73%,+29.16%,+24.69%,0.60,0.60,4 stars
+ONEQ,Fidelity Nasdaq Composite Index ETF,https://finance.yahoo.com/chart/ONEQ,76.81,+1.78,+2.37%,"242,337",+0.99%,+6.62%,+45.29%,+22.38%,+37.02%,0.21,0.21,4 stars
+VIGI,Vanguard International Dividend Appreciation Index Fund ETF Shares,https://finance.yahoo.com/chart/VIGI,80.03,+1.06,+1.34%,"206,390",+0.05%,-6.97%,+16.16%,+12.42%,+27.04%,0.15,0.15,3 stars
+CIBR,First Trust NASDAQ Cybersecurity ETF,https://finance.yahoo.com/chart/CIBR,64.65,+1.00,+1.57%,"707,618",+1.89%,+4.35%,+39.19%,+19.61%,+28.21%,0.59,0.59,3 stars
+JGLO,JPMorgan Global Select Equity E,https://finance.yahoo.com/chart/JGLO,60.58,+0.78,+1.30%,"67,197",--,--,--,--,--,0.47,0.47,0 star
+IBB,iShares Biotechnology ETF,https://finance.yahoo.com/chart/IBB,133.42,+1.85,+1.41%,2.317M,+0.92%,-8.46%,+3.62%,+0.99%,+24.75%,0.45,0.45,2 stars
+IJT,iShares S&P Small-Cap 600 Growth ETF,https://finance.yahoo.com/chart/IJT,138.32,+2.27,+1.67%,"112,757",+2.18%,-0.69%,+16.97%,+22.40%,+20.82%,0.18,0.18,3 stars
+FTSM,First Trust Enhanced Short Maturity ETF,https://finance.yahoo.com/chart/FTSM,59.87,+0.04,+0.07%,1.217M,+0.17%,+1.04%,+5.17%,+0.04%,+2.82%,0.45,0.45,3 stars
+MCHI,iShares MSCI China ETF,https://finance.yahoo.com/chart/MCHI,45.31,+0.48,+1.07%,1.158M,-3.31%,-5.86%,-11.07%,-22.38%,+22.68%,0.59,0.59,3 stars
+NVDL,GraniteShares 2x Long NVDA Daily ETF,https://finance.yahoo.com/chart/NVDL,67.22,+4.11,+6.51%,13.409M,--,--,--,--,--,1.06,1.06,0 star
+VWOB,Vanguard Emerging Markets Government Bond Index Fund,https://finance.yahoo.com/chart/VWOB,63.60,+0.66,+1.05%,"925,254",+0.71%,-1.41%,+10.47%,-1.93%,+13.97%,0.20,0.20,3 stars
+IGF,iShares Global Infrastructure ETF,https://finance.yahoo.com/chart/IGF,53.40,+0.64,+1.21%,"604,269",+2.16%,-0.99%,+6.16%,+11.21%,+26.01%,0.42,0.42,4 stars
+ACWX,iShares MSCI ACWI ex U.S. ETF,https://finance.yahoo.com/chart/ACWX,52.31,+0.61,+1.18%,1.756M,+0.29%,-4.82%,+15.46%,+7.46%,+21.21%,0.32,0.32,2 stars
+TSLL,Direxion Daily TSLA Bull 2X Shares,https://finance.yahoo.com/chart/TSLL,30.26,+4.16,+15.94%,67.275M,--,--,--,--,--,0.96,0.96,0 star
+FIXD,First Trust TCW Opportunistic Fixed Income ETF,https://finance.yahoo.com/chart/FIXD,42.86,+0.43,+1.01%,3.65M,-0.26%,-2.87%,+5.72%,-0.91%,+8.97%,0.65,0.65,2 stars
+LMBS,First Trust Low Duration Opportunities ETF,https://finance.yahoo.com/chart/LMBS,48.55,+0.18,+0.37%,"374,381",-0.25%,-0.10%,+5.89%,-0.77%,+4.15%,0.64,0.64,5 stars
+TBIL,US Treasury 3 Month Bill ETF,https://finance.yahoo.com/chart/TBIL,49.94,+0.02,+0.04%,1.387M,--,--,--,--,--,0.15,0.15,0 star
+VTHR,Vanguard Russell 3000 Index Fund ETF Shares,https://finance.yahoo.com/chart/VTHR,263.43,+4.54,+1.75%,"20,487",+1.42%,+2.86%,+25.91%,+25.53%,+30.93%,0.10,0.10,3 stars
+ESGE,iShares ESG Aware MSCI EM ETF,https://finance.yahoo.com/chart/ESGE,33.49,+0.45,+1.36%,"471,064",+0.30%,-5.23%,+9.41%,-2.78%,+19.11%,0.26,0.26,2 stars
+BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCQ,19.48,+0.04,+0.21%,"675,284",+0.26%,+0.85%,+5.69%,-1.67%,+14.05%,0.10,0.10,0 star
+ISTB,iShares Core 1-5 Year USD Bond ETF,https://finance.yahoo.com/chart/ISTB,47.80,+0.17,+0.36%,"278,953",+0.06%,+0.05%,+5.55%,-0.61%,+5.53%,0.06,0.06,3 stars
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,https://finance.yahoo.com/chart/PDBC,13.70,+0.17,+1.26%,5.439M,+5.47%,+5.51%,-6.01%,+41.87%,+11.61%,0.67,0.67,3 stars
+BSCP,Invesco BulletShares 2025 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCP,20.69,+0.01,+0.05%,1.204M,+0.19%,+1.16%,+5.03%,-1.28%,+12.91%,0.10,0.10,3 stars
+FV,First Trust Dorsey Wright Focus 5 ETF,https://finance.yahoo.com/chart/FV,60.16,+1.07,+1.81%,"85,219",+1.86%,+2.35%,+13.41%,+21.70%,+25.45%,0.90,0.90,5 stars
+QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,https://finance.yahoo.com/chart/QTEC,192.74,+3.61,+1.91%,"243,161",+2.37%,-0.53%,+66.90%,+26.94%,+48.38%,0.57,0.57,3 stars
+SKYY,First Trust Cloud Computing ETF,https://finance.yahoo.com/chart/SKYY,121.06,+2.39,+2.01%,"621,981",+1.63%,+14.42%,+52.21%,+10.54%,+25.78%,0.60,0.60,3 stars
+ETHA,iShares Ethereum Trust - iShare,https://finance.yahoo.com/chart/ETHA,24.69,-0.15,-0.60%,7.317M,--,--,--,--,--,0.25,0.25,0 star
+VNQI,Vanguard Global ex-U.S. Real Estate Index Fund ETF Shares,https://finance.yahoo.com/chart/VNQI,39.07,+0.62,+1.61%,"298,640",-1.24%,-9.33%,+6.40%,+5.64%,+21.26%,0.12,0.12,2 stars
+XT,iShares Exponential Technologies ETF,https://finance.yahoo.com/chart/XT,60.30,+0.81,+1.36%,"120,781",+1.07%,+0.16%,+27.09%,+16.31%,+30.49%,0.46,0.46,0 star
+ANGL,VanEck Fallen Angel High Yield Bond ETF,https://finance.yahoo.com/chart/ANGL,28.81,+0.24,+0.84%,1.864M,+0.49%,+0.49%,+12.92%,+7.25%,+16.53%,0.25,0.25,4 stars
+AIRR,First Trust RBA American Industrial RenaissanceTM ETF,https://finance.yahoo.com/chart/AIRR,81.23,+1.08,+1.35%,1.029M,+5.44%,+6.62%,+31.64%,+33.17%,+34.02%,0.70,0.70,5 stars
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,https://finance.yahoo.com/chart/TDIV,79.63,+1.10,+1.40%,"120,818",+1.49%,-0.60%,+36.81%,+29.57%,+33.38%,0.50,0.50,3 stars
+KBWB,Invesco KBW Bank ETF,https://finance.yahoo.com/chart/KBWB,69.18,+2.70,+4.06%,3.799M,+5.86%,+12.41%,-1.18%,+37.88%,+35.60%,0.35,0.35,3 stars
+AIQ,Global X Artificial Intelligence & Technology ETF,https://finance.yahoo.com/chart/AIQ,38.97,+0.87,+2.28%,"721,215",+0.85%,+4.17%,+54.78%,+17.03%,+38.28%,0.68,0.68,3 stars
+BOTZ,Global X Robotics & Artificial Intelligence ETF,https://finance.yahoo.com/chart/BOTZ,32.39,+0.90,+2.86%,"428,896",+1.38%,+2.53%,+38.62%,+8.83%,+31.67%,0.68,0.68,0 star
+USMC,Principal U.S. Mega-Cap ETF,https://finance.yahoo.com/chart/USMC,60.41,+1.33,+2.26%,"54,683",+0.63%,+5.65%,+31.29%,+26.25%,+27.44%,0.15,0.15,5 stars
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,https://finance.yahoo.com/chart/PRFZ,42.30,+0.71,+1.71%,"78,979",+1.66%,+1.59%,+20.04%,+28.40%,+21.99%,0.40,0.40,4 stars
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,https://finance.yahoo.com/chart/AAXJ,71.18,+0.70,+0.99%,"458,015",-1.39%,-6.41%,+4.94%,-5.89%,+17.40%,0.72,0.72,2 stars
+BSCR,Invesco BulletShares 2027 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCR,19.50,+0.05,+0.26%,1.999M,+0.10%,+0.26%,+6.25%,-1.68%,+15.21%,0.10,0.10,0 star
+UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,https://finance.yahoo.com/chart/UITB,45.68,+0.27,+0.59%,1.357M,-0.54%,-2.50%,+6.45%,-0.93%,+11.15%,0.39,0.39,4 stars
+USCL,Ishares Climate Conscious & Transition MSCI USA ETF,https://finance.yahoo.com/chart/USCL,71.17,+1.40,+2.01%,"3,395",--,--,--,--,--,0.08,0.08,0 star
+BSCS,Invesco BulletShares 2028 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCS,20.15,+0.10,+0.50%,"607,282",+0.10%,-0.34%,+7.44%,-1.72%,+15.63%,0.10,0.10,0 star
+FTSL,First Trust Senior Loan Fund,https://finance.yahoo.com/chart/FTSL,46.41,+0.04,+0.09%,"602,475",+0.37%,+2.31%,+11.13%,+4.02%,+9.49%,0.87,0.87,3 stars
+FTGC,First Trust Global Tactical Commodity Strategy Fund,https://finance.yahoo.com/chart/FTGC,25.21,+0.41,+1.65%,1.031M,+5.35%,+7.98%,-4.90%,+28.10%,+6.56%,1.02,1.02,4 stars
+IBTF,iShares iBonds Dec 2025 Term Treasury ETF,https://finance.yahoo.com/chart/IBTF,23.33,+0.01,+0.04%,"580,147",--,--,--,--,--,0.07,0.07,0 star
+SQQQ,ProShares UltraPro Short QQQ,https://finance.yahoo.com/chart/SQQQ,30.08,-2.18,-6.76%,62.626M,-3.40%,-15.04%,-73.63%,-60.90%,-65.94%,0.98,0.98,0 star
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/SLQD,49.78,+0.13,+0.26%,"198,591",+0.08%,+0.30%,+5.99%,-0.44%,+6.08%,0.06,0.06,4 stars
+PHO,Invesco Water Resources ETF,https://finance.yahoo.com/chart/PHO,66.90,+0.40,+0.60%,"76,919",+1.69%,-5.39%,+18.92%,+31.26%,+37.46%,0.60,0.60,4 stars
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,https://finance.yahoo.com/chart/GRID,120.90,+1.69,+1.42%,"193,669",+1.31%,-3.30%,+21.36%,+28.35%,+42.11%,0.57,0.57,5 stars
+FMB,First Trust Managed Municipal ETF,https://finance.yahoo.com/chart/FMB,50.76,+0.15,+0.30%,"574,705",-0.48%,-1.11%,+5.97%,+2.50%,+8.29%,0.65,0.65,4 stars
+PABU,iShares Paris-Aligned Climate MSCI USA ETF,https://finance.yahoo.com/chart/PABU,65.20,+1.25,+1.95%,327,--,--,--,--,--,0.10,0.10,0 star
+FALN,iShares Fallen Angels USD Bond ETF,https://finance.yahoo.com/chart/FALN,26.87,+0.21,+0.79%,3.806M,+0.60%,+0.51%,+14.02%,+5.77%,+16.64%,0.25,0.25,3 stars
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,https://finance.yahoo.com/chart/QQEW,127.30,+1.92,+1.53%,"117,668",+1.87%,+0.63%,+33.52%,+17.67%,+35.79%,0.57,0.57,2 stars
+EUFN,iShares MSCI Europe Financials ETF,https://finance.yahoo.com/chart/EUFN,24.11,+0.44,+1.86%,"620,372",+3.48%,+1.09%,+26.18%,+19.22%,+20.05%,0.48,0.48,2 stars
+MAGS,Roundhill Magnificent Seven ETF,https://finance.yahoo.com/chart/MAGS,55.51,+1.94,+3.62%,2.981M,--,--,--,--,--,0.29,0.29,0 star
+VFLO,Victoryshares Free Cash Flow ETF,https://finance.yahoo.com/chart/VFLO,35.59,+0.40,+1.14%,1.327M,--,--,--,--,--,0.48,0.48,0 star
+HYLS,First Trust Tactical High Yield ETF,https://finance.yahoo.com/chart/HYLS,41.55,+0.29,+0.70%,"229,497",+0.53%,+0.67%,+13.41%,+3.61%,+13.93%,1.02,1.02,2 stars
+BSCT,Invesco BulletShares 2029 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCT,18.31,+0.11,+0.60%,1.264M,--,--,--,--,--,0.10,0.10,0 star
+IBTG,iShares iBonds Dec 2026 Term Treasury ETF,https://finance.yahoo.com/chart/IBTG,22.82,+0.03,+0.13%,"332,420",--,--,--,--,--,0.07,0.07,0 star
+PDP,Invesco Dorsey Wright Momentum ETF,https://finance.yahoo.com/chart/PDP,111.03,+2.29,+2.11%,"25,753",+3.18%,+4.73%,+20.75%,+7.72%,+33.20%,0.62,0.62,1 star
+BSVO,EA Bridgeway Omni Small-Cap Value ETF,https://finance.yahoo.com/chart/BSVO,22.03,+0.41,+1.89%,"194,353",--,--,--,--,--,0.47,0.47,0 star
+VCRB,Vanguard Core Bond ETF,https://finance.yahoo.com/chart/VCRB,75.63,+0.63,+0.84%,"611,290",--,--,--,--,--,0.10,0.10,0 star
+ICLN,iShares Global Clean Energy ETF,https://finance.yahoo.com/chart/ICLN,11.37,+0.13,+1.16%,4.957M,-0.09%,-14.20%,-20.33%,-23.80%,+43.81%,0.41,0.41,1 star
+PTNQ,Pacer Trendpilot 100 ETF,https://finance.yahoo.com/chart/PTNQ,74.57,+0.86,+1.17%,"76,272",+0.75%,+3.32%,+34.85%,+13.60%,+24.22%,0.65,0.65,3 stars
+UNIY,WisdomTree Voya Yield Enchanced USD Universal Bond Fund,https://finance.yahoo.com/chart/UNIY,47.89,+0.39,+0.83%,6,--,--,--,--,--,0.15,0.15,0 star
+USXF,iShares ESG Advanced MSCI USA ETF,https://finance.yahoo.com/chart/USXF,50.50,+0.89,+1.79%,"88,287",--,--,--,--,--,0.10,0.10,0 star
+FEX,First Trust Large Cap Core AlphaDEX Fund,https://finance.yahoo.com/chart/FEX,106.94,+1.44,+1.36%,"23,625",+2.54%,+1.76%,+14.42%,+26.78%,+27.03%,0.58,0.58,2 stars
+IBTH,iShares iBonds Dec 2027 Term Treasury ETF,https://finance.yahoo.com/chart/IBTH,22.19,+0.06,+0.27%,"385,897",--,--,--,--,--,0.07,0.07,0 star
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,https://finance.yahoo.com/chart/QQQE,91.45,+1.30,+1.44%,"320,828",+1.87%,+0.43%,+33.72%,+18.01%,+36.11%,0.35,0.35,2 stars
+VTWG,Vanguard Russell 2000 Growth Index Fund ETF Shares,https://finance.yahoo.com/chart/VTWG,213.42,+4.20,+2.01%,"24,419",+1.56%,+1.81%,+18.73%,+2.82%,+28.59%,0.15,0.15,2 stars
+FNX,First Trust Mid Cap Core AlphaDEX Fund,https://finance.yahoo.com/chart/FNX,119.15,+1.66,+1.41%,"24,142",+2.96%,+1.25%,+20.45%,+25.02%,+26.87%,0.58,0.58,4 stars
+PKW,Invesco BuyBack Achievers ETF,https://finance.yahoo.com/chart/PKW,117.30,+1.12,+0.97%,"17,838",+1.88%,+0.90%,+17.36%,+32.45%,+34.13%,0.61,0.61,5 stars
+BSCU,Invesco BulletShares 2030 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCU,16.34,+0.14,+0.86%,"926,098",--,--,--,--,--,0.10,0.10,0 star
+PEY,Invesco High Yield Equity Dividend Achievers ETF,https://finance.yahoo.com/chart/PEY,21.50,+0.21,+0.99%,"206,156",+1.13%,-1.77%,+7.35%,+26.03%,+24.61%,0.53,0.53,3 stars
+FTA,First Trust Large Cap Value AlphaDEX Fund,https://finance.yahoo.com/chart/FTA,78.51,+0.71,+0.91%,"40,532",+2.68%,-0.66%,+10.17%,+29.21%,+24.88%,0.58,0.58,2 stars
+DFGP,Dimensional Global Core Plus Fi,https://finance.yahoo.com/chart/DFGP,52.57,+0.42,+0.81%,"66,835",--,--,--,--,--,0.25,0.25,0 star
+BNDW,Vanguard Total World Bond ETF,https://finance.yahoo.com/chart/BNDW,67.90,+0.49,+0.73%,"56,159",-0.43%,-1.31%,+7.19%,-2.06%,+8.35%,0.05,0.05,2 stars
+VRIG,Invesco Variable Rate Investment Grade ETF,https://finance.yahoo.com/chart/VRIG,25.17,+0.02,+0.08%,"234,692",+0.22%,+1.53%,+7.28%,+0.98%,+4.22%,0.30,0.30,5 stars
+SUSC,iShares ESG USD Corporate Bond ETF,https://finance.yahoo.com/chart/SUSC,22.65,+0.22,+0.98%,"262,361",-0.31%,-2.55%,+8.48%,-1.33%,+14.58%,0.18,0.18,2 stars
+FTC,First Trust Large Cap Growth AlphaDEX Fund,https://finance.yahoo.com/chart/FTC,140.84,+1.76,+1.27%,"88,380",+1.87%,+4.94%,+20.14%,+24.40%,+28.34%,0.58,0.58,2 stars
+VTC,Vanguard Total Corporate Bond ETF ETF Shares,https://finance.yahoo.com/chart/VTC,75.49,+0.70,+0.94%,"43,492",-0.29%,-2.46%,+8.64%,-1.40%,+14.50%,0.04,0.04,2 stars
+FTHI,First Trust BuyWrite Income ETF,https://finance.yahoo.com/chart/FTHI,23.43,+0.33,+1.43%,"217,875",+0.69%,+3.14%,+20.07%,+13.28%,+17.47%,0.75,0.75,4 stars
+JPEF,Jpmorgan Equity Focus ETF,https://finance.yahoo.com/chart/JPEF,68.16,+1.27,+1.90%,"175,700",--,--,--,--,--,0.64,0.64,0 star
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJP,23.14,+0.05,+0.22%,"363,337",+0.30%,+1.58%,+10.87%,+4.58%,+16.73%,0.43,0.43,4 stars
+DWAS,Invesco Dorsey Wright SmallCap Momentum ETF,https://finance.yahoo.com/chart/DWAS,91.34,+2.48,+2.79%,"685,757",+0.05%,-2.81%,+16.82%,+20.00%,+31.03%,0.60,0.60,4 stars
+BAFE,-,https://finance.yahoo.com/chart/BAFE,24.92,-0.33,-1.30%,"87,908",--,--,--,--,--,0.65,0.65,0 star
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,https://finance.yahoo.com/chart/SUSB,24.72,+0.10,+0.41%,"187,875",+0.08%,+0.04%,+6.06%,-0.65%,+6.95%,0.12,0.12,3 stars
+GOVI,Invesco Equal Weight 0-30 Year,https://finance.yahoo.com/chart/GOVI,26.90,+0.33,+1.24%,"134,483",-0.48%,-4.76%,+3.43%,-3.54%,+10.34%,0.15,0.15,5 stars
+SUSL,iShares ESG MSCI USA Leaders ETF,https://finance.yahoo.com/chart/SUSL,104.29,+2.06,+2.02%,"18,891",--,--,--,--,--,0.10,0.10,0 star
+CATH,Global X S&P 500 Catholic Values ETF,https://finance.yahoo.com/chart/CATH,71.85,+1.46,+2.07%,"7,626",+1.43%,+3.21%,+26.36%,+28.88%,+30.99%,0.29,0.29,3 stars
+FYX,First Trust Small Cap Core AlphaDEX Fund,https://finance.yahoo.com/chart/FYX,102.39,+2.06,+2.05%,"17,624",+1.32%,+3.03%,+18.14%,+27.48%,+21.06%,0.61,0.61,4 stars
+JTEK,JPMorgan U.S. Tech Leaders ETF,https://finance.yahoo.com/chart/JTEK,77.94,+2.20,+2.90%,"170,870",--,--,--,--,--,0.65,0.65,0 star
+INDY,iShares India 50 ETF,https://finance.yahoo.com/chart/INDY,49.99,+0.31,+0.62%,"85,705",-1.67%,-8.52%,+17.05%,+19.28%,+10.01%,0.89,0.89,2 stars
+BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJQ,23.42,+0.10,+0.43%,"222,393",+0.60%,+1.33%,+10.26%,+4.62%,+18.01%,0.42,0.42,3 stars
+VTWV,Vanguard Russell 2000 Value Index Fund ETF Shares,https://finance.yahoo.com/chart/VTWV,146.49,+2.57,+1.79%,"34,908",+1.30%,-0.45%,+14.66%,+28.13%,+22.33%,0.15,0.15,3 stars
+CONL,GraniteShares 2x Long COIN Daily ETF,https://finance.yahoo.com/chart/CONL,42.00,+5.50,+15.07%,5.341M,--,--,--,--,--,1.12,1.12,0 star
+FTGS,First Trust Growth Strength ETF,https://finance.yahoo.com/chart/FTGS,32.12,+0.47,+1.48%,"234,181",--,--,--,--,--,0.60,0.60,0 star
+USTB,VictoryShares Short-Term Bond ETF,https://finance.yahoo.com/chart/USTB,50.22,+0.10,+0.19%,"81,551",+0.12%,+0.62%,+6.65%,+0.90%,+4.90%,0.35,0.35,5 stars
+MSTX,Defiance Daily Target 2X Long MSTR ETF,https://finance.yahoo.com/chart/MSTX,51.62,+4.84,+10.35%,10.771M,--,--,--,--,--,1.29,1.29,0 star
+RING,iShares MSCI Global Gold Miners ETF,https://finance.yahoo.com/chart/RING,30.50,+0.27,+0.89%,"137,876",+8.50%,-9.16%,+12.62%,-7.97%,+50.69%,0.39,0.39,4 stars
+IBTI,iShares iBonds Dec 2028 Term Treasury ETF,https://finance.yahoo.com/chart/IBTI,21.88,+0.10,+0.46%,"366,651",--,--,--,--,--,0.07,0.07,0 star
+PNQI,Invesco NASDAQ Internet ETF,https://finance.yahoo.com/chart/PNQI,47.25,+1.18,+2.56%,"36,700",+1.20%,+7.75%,+60.58%,-5.68%,+28.88%,0.60,0.60,2 stars
+BRRR,Valkyrie Bitcoin Fund,https://finance.yahoo.com/chart/BRRR,28.19,+0.89,+3.26%,"120,284",--,--,--,--,--,0.25,0.25,0 star
+PID,Invesco International Dividend Achievers ETF,https://finance.yahoo.com/chart/PID,18.47,+0.20,+1.09%,"229,957",+0.87%,-5.14%,+14.68%,+24.25%,+25.44%,0.53,0.53,3 stars
+BSCV,Invesco BulletShares 2031 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCV,16.03,+0.15,+0.94%,"523,695",--,--,--,--,--,0.10,0.10,0 star
+BUG,Global X Cybersecurity ETF,https://finance.yahoo.com/chart/BUG,32.37,+0.50,+1.57%,"103,452",--,--,--,--,--,0.50,0.50,0 star
+QTUM,Defiance Quantum ETF,https://finance.yahoo.com/chart/QTUM,80.81,+1.99,+2.52%,"638,239",-0.42%,+29.14%,+39.60%,+35.27%,+48.20%,0.40,0.40,5 stars
+DMXF,iShares ESG Advanced MSCI EAFE Index ETF,https://finance.yahoo.com/chart/DMXF,64.91,+0.81,+1.26%,"30,718",--,--,--,--,--,0.12,0.12,0 star
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,https://finance.yahoo.com/chart/CDC,63.20,+0.67,+1.07%,"42,592",+1.00%,-2.55%,-4.92%,+33.04%,+19.34%,0.46,0.46,3 stars
+FMHI,First Trust Municipal High Income ETF,https://finance.yahoo.com/chart/FMHI,48.13,+0.26,+0.54%,"72,155",-0.33%,-1.21%,+7.28%,+7.59%,+10.58%,0.70,0.70,3 stars
+PTF,Invesco Dorsey Wright Technology Momentum ETF,https://finance.yahoo.com/chart/PTF,70.97,+3.78,+5.63%,"65,554",-2.19%,+7.25%,+33.81%,+18.03%,+46.09%,0.68,0.68,4 stars
+HNDL,Strategy Shares Nasdaq 7 Handl Index ETF,https://finance.yahoo.com/chart/HNDL,21.44,+0.33,+1.56%,"179,595",+1.10%,-1.04%,+13.07%,+9.32%,+16.98%,0.97,0.97,3 stars
+QQQI,NEOS Nasdaq 100 High Income ETF,https://finance.yahoo.com/chart/QQQI,52.96,+1.04,+2.00%,"227,937",--,--,--,--,--,0.68,0.68,0 star
+PSC,Principal U.S. Small-Cap ETF,https://finance.yahoo.com/chart/PSC,52.67,+0.85,+1.64%,"35,066",+2.73%,+0.65%,+18.52%,+32.30%,+18.87%,0.38,0.38,4 stars
+AIA,iShares Asia 50 ETF,https://finance.yahoo.com/chart/AIA,67.72,+1.00,+1.50%,"12,998",-0.16%,-4.26%,+4.84%,-10.75%,+21.84%,0.50,0.50,4 stars
+BUFC,AB Conservative Buffer ETF,https://finance.yahoo.com/chart/BUFC,39.36,+0.22,+0.56%,"47,176",--,--,--,--,--,0.69,0.69,0 star
+BSCW,Invesco Bulletshares 2032 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCW,20.03,+0.21,+1.06%,"202,110",--,--,--,--,--,0.10,0.10,0 star
+PFM,Invesco Dividend Achievers ETF,https://finance.yahoo.com/chart/PFM,46.25,+0.47,+1.03%,"44,735",+0.85%,-1.04%,+11.31%,+23.19%,+26.79%,0.52,0.52,4 stars
+UYLD,Angel Oak Ultrashort Income ETF,https://finance.yahoo.com/chart/UYLD,51.14,+0.02,+0.05%,"181,896",--,--,--,--,--,0.55,0.55,0 star
+COMT,iShares GSCI Commodity Dynamic Roll Strategy ETF,https://finance.yahoo.com/chart/COMT,26.96,+0.45,+1.70%,"116,660",+6.52%,+8.06%,-6.27%,+36.54%,+10.70%,0.49,0.49,3 stars
+QQQJ,Invesco NASDAQ Next Gen 100 ETF,https://finance.yahoo.com/chart/QQQJ,31.54,+0.31,+0.99%,"64,643",--,--,--,--,--,0.15,0.15,0 star
+CLOA,iShares AAA CLO Active ETF,https://finance.yahoo.com/chart/CLOA,51.90,+0.04,+0.08%,"271,102",--,--,--,--,--,0.20,0.20,0 star
+IMCV,iShares Morningstar Mid-Cap Value ETF,https://finance.yahoo.com/chart/IMCV,75.75,+0.85,+1.14%,"19,790",+2.01%,-1.22%,+11.73%,+33.00%,+24.40%,0.06,0.06,3 stars
+DFGX,Dimensional Global Ex US Core Fixed Income ETF,https://finance.yahoo.com/chart/DFGX,52.01,+0.43,+0.83%,"151,287",--,--,--,--,--,0.23,0.23,0 star
+XBIL,"The RBB Fund, Inc. - US Treasury 6 Month Bill ETF",https://finance.yahoo.com/chart/XBIL,50.10,+0.01,+0.02%,"125,522",--,--,--,--,--,0.15,0.15,0 star
+KRMA,Global X Conscious Companies ETF,https://finance.yahoo.com/chart/KRMA,39.55,+0.61,+1.57%,"2,874",+1.18%,+1.00%,+21.98%,+27.82%,+30.33%,0.43,0.43,2 stars
+IUS,Invesco RAFI Strategic US ETF,https://finance.yahoo.com/chart/IUS,50.51,+0.61,+1.22%,"260,436",+1.69%,+0.41%,+20.80%,+31.81%,+28.98%,0.19,0.19,5 stars
+NVDU,Direxion Daily Nvda Bull 2X Shares,https://finance.yahoo.com/chart/NVDU,95.04,+5.86,+6.57%,"624,365",--,--,--,--,--,1.98,1.98,0 star
+SIXG,Defiance Connective Technologies ETF,https://finance.yahoo.com/chart/SIXG,48.42,+0.88,+1.85%,"29,116",+1.62%,+9.09%,+21.88%,+25.63%,0.00%,0.30,0.30,3 stars
+PPH,VanEck Pharmaceutical ETF,https://finance.yahoo.com/chart/PPH,85.60,+0.36,+0.42%,"393,851",-0.79%,-9.14%,+6.91%,+17.81%,+19.01%,0.36,0.36,4 stars
+HLAL,Wahed FTSE USA Shariah ETF,https://finance.yahoo.com/chart/HLAL,53.51,+1.13,+2.16%,"45,717",--,--,--,--,--,0.50,0.50,0 star
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,https://finance.yahoo.com/chart/QCLN,34.95,+0.74,+2.16%,"255,348",+3.01%,+3.33%,-9.96%,-3.11%,+42.68%,0.59,0.59,1 star
+FTQI,First Trust Nasdaq BuyWrite Income ETF,https://finance.yahoo.com/chart/FTQI,21.01,+0.35,+1.69%,"105,194",+0.91%,+4.56%,+24.52%,+9.93%,+13.45%,0.75,0.75,3 stars
+FCTE,SMI 3Fourteen Full-Cycle Trend,https://finance.yahoo.com/chart/FCTE,26.63,+0.35,+1.33%,"40,433",--,--,--,--,--,0.89,0.89,0 star
+LVHD,Franklin U.S. Low Volatility High Dividend Index ETF,https://finance.yahoo.com/chart/LVHD,38.29,+0.18,+0.47%,"14,475",-0.18%,-4.57%,-1.10%,+26.56%,+22.57%,0.27,0.27,1 star
+UBND,VictoryShares Core Plus Intermediate Bond ETF,https://finance.yahoo.com/chart/UBND,21.31,+0.17,+0.83%,"108,747",--,--,--,--,--,0.46,0.46,0 star
+COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,https://finance.yahoo.com/chart/COWG,32.87,+0.55,+1.70%,"427,991",--,--,--,--,--,0.49,0.49,0 star
+CFA,VictoryShares US 500 Volatility Wtd ETF,https://finance.yahoo.com/chart/CFA,86.31,+0.92,+1.08%,"12,813",+1.66%,-0.45%,+11.93%,+26.06%,+30.33%,0.39,0.39,2 stars
+SEIE,SEI Select International Equity,https://finance.yahoo.com/chart/SEIE,23.62,-0.34,-1.42%,"53,583",--,--,--,--,--,0.50,0.50,0 star
+DGCB,Dimensional Global Credit ETF,https://finance.yahoo.com/chart/DGCB,52.36,+0.47,+0.91%,"73,048",--,--,--,--,--,0.23,0.23,0 star
+WCLD,WisdomTree Cloud Computing Fund,https://finance.yahoo.com/chart/WCLD,37.79,+0.78,+2.11%,"76,239",--,--,--,--,--,0.45,0.45,0 star
+SOXQ,Invesco PHLX Semiconductor ETF,https://finance.yahoo.com/chart/SOXQ,40.58,+0.84,+2.11%,"371,507",--,--,--,--,--,0.19,0.19,0 star
+FYC,First Trust Small Cap Growth AlphaDEX Fund,https://finance.yahoo.com/chart/FYC,78.53,+1.81,+2.36%,"30,350",+1.42%,+4.49%,+14.15%,+21.75%,+16.80%,0.71,0.71,4 stars
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,https://finance.yahoo.com/chart/SKOR,47.68,+0.28,+0.59%,"100,569",-0.04%,-0.80%,+7.54%,-1.20%,+10.81%,0.16,0.16,5 stars
+DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,https://finance.yahoo.com/chart/DGRS,51.71,+0.85,+1.67%,"25,803",+0.94%,+0.66%,+21.05%,+23.24%,+24.37%,0.38,0.38,4 stars
+KBWP,Invesco KBW Property & Casualty Insurance ETF,https://finance.yahoo.com/chart/KBWP,114.34,+1.39,+1.23%,"30,755",-1.48%,-1.50%,+7.06%,+20.07%,+27.64%,0.35,0.35,5 stars
+EEMA,iShares MSCI Emerging Markets Asia ETF,https://finance.yahoo.com/chart/EEMA,71.43,+1.07,+1.52%,"21,280",-0.31%,-6.53%,+6.98%,-4.19%,+18.36%,0.49,0.49,3 stars
+IGOV,iShares International Treasury Bond ETF,https://finance.yahoo.com/chart/IGOV,37.89,+0.36,+0.96%,"181,528",-1.38%,-6.43%,+5.63%,-9.24%,+4.12%,0.35,0.35,1 star
+ROBT,First Trust Nasdaq Artificial Intelligence and Robotics ETF,https://finance.yahoo.com/chart/ROBT,45.30,+0.97,+2.19%,"89,833",+0.58%,+3.96%,+27.10%,+9.94%,+33.78%,0.65,0.65,1 star
+IBTJ,iShares iBonds Dec 2029 Term Treasury ETF,https://finance.yahoo.com/chart/IBTJ,21.30,+0.12,+0.57%,"163,382",--,--,--,--,--,0.07,0.07,0 star
+MODL,Victoryshares Westend U.S. Sector ETF,https://finance.yahoo.com/chart/MODL,40.68,+0.77,+1.93%,"32,717",--,--,--,--,--,0.50,0.50,0 star
+MDIV,Multi-Asset Diversified Income Index Fund,https://finance.yahoo.com/chart/MDIV,16.33,+0.11,+0.68%,"60,432",+1.11%,-0.27%,+12.01%,+16.21%,+18.39%,0.80,0.80,2 stars
+FEPI,REX FANG & Innovation Equity Premium Income ETF,https://finance.yahoo.com/chart/FEPI,49.47,+0.86,+1.77%,"85,485",--,--,--,--,--,0.65,0.65,0 star
+UTWO,US Treasury 2 Year Note ETF,https://finance.yahoo.com/chart/UTWO,48.09,+0.08,+0.18%,"792,645",--,--,--,--,--,0.15,0.15,0 star
+CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,https://finance.yahoo.com/chart/CFO,69.99,+0.79,+1.14%,"11,886",+1.68%,-0.36%,-3.64%,+26.07%,+21.65%,0.42,0.42,1 star
+FTXL,First Trust Nasdaq Semiconductor ETF,https://finance.yahoo.com/chart/FTXL,90.44,+1.82,+2.05%,"166,678",+3.63%,-2.29%,+54.30%,+35.07%,+61.40%,0.60,0.60,3 stars
+JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,https://finance.yahoo.com/chart/JSMD,76.67,+0.70,+0.92%,"70,776",+2.13%,+5.04%,+26.88%,+8.56%,+30.21%,0.30,0.30,4 stars
+VGSR,Vert Global Sustainable Real Estate ETF,https://finance.yahoo.com/chart/VGSR,10.02,+0.08,+0.79%,"88,084",--,--,--,--,--,0.56,0.56,0 star
+BSCX,Invesco Bulletshares 2033 Corporate Bond ETF,https://finance.yahoo.com/chart/BSCX,20.53,+0.21,+1.03%,"97,470",--,--,--,--,--,0.10,0.10,0 star
+KBWD,Invesco KBW High Dividend Yield Financial ETF,https://finance.yahoo.com/chart/KBWD,14.70,+0.17,+1.17%,"152,617",+0.20%,-0.22%,+19.98%,+31.85%,+20.56%,2.02,2.02,1 star
+FEM,First Trust Emerging Markets AlphaDEX Fund,https://finance.yahoo.com/chart/FEM,21.80,+0.20,+0.91%,"56,105",-1.05%,-3.07%,+10.84%,+7.85%,+19.90%,0.80,0.80,3 stars
+LRGE,ClearBridge Large Cap Growth ESG ETF,https://finance.yahoo.com/chart/LRGE,75.92,+1.49,+2.01%,"10,674",+0.88%,+2.91%,+45.99%,+22.87%,+32.08%,0.48,0.48,3 stars
+BBH,VanEck Biotech ETF,https://finance.yahoo.com/chart/BBH,159.47,+1.65,+1.05%,"11,340",+1.59%,-9.83%,+3.88%,+11.77%,+25.75%,0.35,0.35,2 stars
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,https://finance.yahoo.com/chart/CXSE,28.90,+0.08,+0.28%,"17,324",-3.28%,-8.37%,-18.67%,-23.76%,+36.44%,0.32,0.32,3 stars
+BGRN,iShares USD Green Bond ETF,https://finance.yahoo.com/chart/BGRN,46.59,+0.28,+0.60%,"20,079",-0.06%,-1.54%,+6.52%,-2.54%,+9.35%,0.20,0.20,2 stars
+PRN,Invesco Dorsey Wright Industrials Momentum ETF,https://finance.yahoo.com/chart/PRN,160.64,+3.08,+1.95%,"18,479",+4.47%,+1.98%,+37.15%,+25.56%,+34.13%,0.71,0.71,4 stars
+FDT,First Trust Developed Markets Ex-US AlphaDEX Fund,https://finance.yahoo.com/chart/FDT,54.28,+0.64,+1.19%,"77,650",+0.37%,-2.50%,+13.95%,+10.69%,+16.60%,0.80,0.80,2 stars
+SMRI,Bushido Capital US Equity ETF,https://finance.yahoo.com/chart/SMRI,32.47,+0.35,+1.10%,"6,998",--,--,--,--,--,0.72,0.72,0 star
+DRIV,Global X Autonomous & Electric Vehicles ETF,https://finance.yahoo.com/chart/DRIV,23.45,+0.54,+2.36%,"213,581",+2.13%,+4.15%,+25.60%,+27.98%,+28.04%,0.68,0.68,0 star
+FLDB,Fidelity Low Duration Bond ETF,https://finance.yahoo.com/chart/FLDB,50.46,+0.02,+0.04%,220,--,--,--,--,--,0.20,0.20,0 star
+QVAL,Alpha Architect U.S. Quantitative Value ETF,https://finance.yahoo.com/chart/QVAL,45.72,+0.27,+0.59%,"8,181",+2.42%,-0.68%,+28.16%,+34.17%,+23.53%,0.29,0.29,3 stars
+FNY,First Trust Mid Cap Growth AlphaDEX Fund,https://finance.yahoo.com/chart/FNY,82.48,+1.09,+1.34%,"17,295",+3.10%,+1.32%,+21.07%,+13.38%,+32.58%,0.70,0.70,4 stars
+BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJR,22.60,+0.13,+0.58%,"164,601",--,--,--,--,--,0.42,0.42,0 star
+NXTG,First Trust IndXX NextG ETF,https://finance.yahoo.com/chart/NXTG,85.64,+1.18,+1.40%,"6,452",+0.41%,-1.04%,+28.35%,+21.92%,+28.68%,0.70,0.70,2 stars
+GPIX,Goldman Sachs S&P 500 Core Prem,https://finance.yahoo.com/chart/GPIX,49.68,+0.84,+1.72%,"321,118",--,--,--,--,--,0.35,0.35,0 star
+USOI,UBS ETRACS Crude Oil Shares Covered Call ETN,https://finance.yahoo.com/chart/USOI,67.95,+0.61,+0.91%,"42,990",+3.77%,+10.50%,+6.05%,+37.57%,+32.53%,0.85,0.85,0 star
+CARY,Angel Oak Income ETF,https://finance.yahoo.com/chart/CARY,20.55,+0.06,+0.29%,"75,203",--,--,--,--,--,1.00,1.00,0 star
+CLOU,Global X Cloud Computing ETF Global X Cloud Computing ETF,https://finance.yahoo.com/chart/CLOU,24.14,+0.42,+1.77%,"134,136",--,--,--,--,--,0.68,0.68,0 star
+GNMA,iShares GNMA Bond ETF,https://finance.yahoo.com/chart/GNMA,42.69,+0.38,+0.90%,"73,031",-0.55%,-2.30%,+5.33%,-1.70%,+5.77%,0.11,0.11,3 stars
+GPIQ,Goldman Sachs Nasdaq-100 Core P,https://finance.yahoo.com/chart/GPIQ,49.15,+0.99,+2.06%,"199,501",--,--,--,--,--,0.35,0.35,0 star
+CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,https://finance.yahoo.com/chart/CDL,66.05,+0.71,+1.08%,"7,136",+1.12%,-2.32%,+3.12%,+33.06%,+26.47%,0.40,0.40,3 stars
+NUSI,NEOS Nasdaq-100 Hedged Equity Income ETF,https://finance.yahoo.com/chart/NUSI,26.24,+0.30,+1.16%,"43,098",--,--,--,--,--,0.68,0.68,0 star
+VPLS,Vanguard Core-Plus Bond ETF,https://finance.yahoo.com/chart/VPLS,75.88,+0.67,+0.88%,"53,803",--,--,--,--,--,0.20,0.20,0 star
+BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJS,21.98,+0.17,+0.78%,"100,554",--,--,--,--,--,0.42,0.42,0 star
+FINX,Global X FinTech ETF,https://finance.yahoo.com/chart/FINX,31.68,+0.77,+2.49%,"68,257",+1.47%,+9.15%,+33.88%,-9.71%,+37.14%,0.68,0.68,1 star
+IBTK,iShares iBonds Dec 2030 Term Treasury ETF,https://finance.yahoo.com/chart/IBTK,19.16,+0.15,+0.76%,"118,001",--,--,--,--,--,0.07,0.07,0 star
+PSCT,Invesco S&P SmallCap Information Technology ETF,https://finance.yahoo.com/chart/PSCT,48.73,+1.09,+2.29%,"6,724",+2.10%,+0.95%,+20.71%,+26.50%,+39.17%,0.29,0.29,2 stars
+AMDL,GraniteShares 2x Long AMD Daily ETF,https://finance.yahoo.com/chart/AMDL,7.47,+0.47,+6.71%,13.445M,--,--,--,--,--,6.04,6.04,0 star
+QMOM,Alpha Architect U.S. Quantitative Momentum ETF,https://finance.yahoo.com/chart/QMOM,66.55,+1.36,+2.09%,"27,190",+3.77%,+2.24%,+9.45%,-4.03%,+27.98%,0.29,0.29,5 stars
+CSB,VictoryShares US Small Cap High Div Volatility Wtd ETF,https://finance.yahoo.com/chart/CSB,60.73,+0.75,+1.25%,"5,379",+2.26%,+2.97%,+12.50%,+27.36%,+21.41%,0.40,0.40,3 stars
+BRNY,Burney U.S. Factor Rotation ETF,https://finance.yahoo.com/chart/BRNY,42.42,+0.66,+1.58%,"6,832",--,--,--,--,--,0.79,0.79,0 star
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,https://finance.yahoo.com/chart/FEMS,36.67,+0.33,+0.90%,"20,198",-2.79%,-4.29%,+3.25%,+3.69%,+27.09%,0.80,0.80,5 stars
+USVM,VictoryShares US Small Mid Cap Value Momentum ETF,https://finance.yahoo.com/chart/USVM,86.01,+1.15,+1.36%,1.986M,+2.23%,+0.99%,+18.72%,+24.52%,+21.62%,0.30,0.30,4 stars
+ESPO,VanEck Video Gaming and eSports ETF,https://finance.yahoo.com/chart/ESPO,84.12,+2.03,+2.47%,"26,683",+0.89%,+14.93%,+33.37%,-1.92%,+41.56%,0.59,0.59,5 stars
+FCAL,First Trust California Municipal High Income ETF,https://finance.yahoo.com/chart/FCAL,49.07,+0.23,+0.47%,"9,505",-0.61%,-1.28%,+5.89%,+3.30%,+9.69%,0.65,0.65,3 stars
+NFTY,First Trust India NIFTY 50 Equal Weight ETF,https://finance.yahoo.com/chart/NFTY,55.17,+0.77,+1.42%,"35,799",-1.46%,-11.58%,+24.40%,+26.27%,+0.89%,0.80,0.80,2 stars
+OBIL,US Treasury 12 Month Bill ETF,https://finance.yahoo.com/chart/OBIL,50.08,+0.01,+0.03%,"24,565",--,--,--,--,--,0.15,0.15,0 star
+PTIR,GraniteShares 2x Long PLTR Dail,https://finance.yahoo.com/chart/PTIR,101.85,-3.19,-3.04%,"581,092",--,--,--,--,--,1.18,1.18,0 star
+RUNN,Running Oak Efficient Growth ETF,https://finance.yahoo.com/chart/RUNN,33.31,+0.17,+0.51%,"44,917",--,--,--,--,--,0.58,0.58,0 star
+IBTO,Ishares Ibonds Dec 2033 Term Treasury ETF,https://finance.yahoo.com/chart/IBTO,23.56,+0.23,+0.99%,"127,665",--,--,--,--,--,0.07,0.07,0 star
+EWJV,iShares MSCI Japan Value ETF,https://finance.yahoo.com/chart/EWJV,30.94,+0.42,+1.38%,"291,799",-1.09%,-1.04%,+23.05%,+6.16%,0.00%,0.15,0.15,4 stars
+PIO,Invesco Global Water ETF,https://finance.yahoo.com/chart/PIO,39.66,+0.52,+1.33%,"7,173",+1.54%,-5.72%,+21.13%,+25.86%,+35.08%,0.75,0.75,3 stars
+IBTL,iShares iBonds Dec 2031 Term Treasury ETF,https://finance.yahoo.com/chart/IBTL,19.74,+0.17,+0.87%,"195,830",--,--,--,--,--,0.07,0.07,0 star
+IBTM,iShares iBonds Dec 2032 Term Treasury ETF,https://finance.yahoo.com/chart/IBTM,22.13,+0.19,+0.87%,"143,596",--,--,--,--,--,0.07,0.07,0 star
+JSML,Janus Henderson Small Cap Growth Alpha ETF,https://finance.yahoo.com/chart/JSML,67.47,+1.43,+2.17%,"20,048",+2.93%,+3.47%,+29.82%,+2.72%,+31.06%,0.30,0.30,3 stars
+BSMP,Invesco BulletShares (R) 2025 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMP,24.56,+0.01,+0.06%,"254,631",--,--,--,--,--,0.18,0.18,0 star
+URNJ,Sprott Junior Uranium Miners ETF,https://finance.yahoo.com/chart/URNJ,19.86,+0.15,+0.76%,"115,719",--,--,--,--,--,0.80,0.80,0 star
+SEIS,SEI Select Small Cap ETF,https://finance.yahoo.com/chart/SEIS,25.26,-0.43,-1.66%,"21,261",--,--,--,--,--,0.55,0.55,0 star
+BSMQ,Invesco BulletShares (R) 2026 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMQ,23.60,+0.01,+0.04%,"219,617",--,--,--,--,--,0.18,0.18,0 star
+SNSR,Global X Internet of Things ETF,https://finance.yahoo.com/chart/SNSR,35.32,+0.46,+1.32%,"23,010",+1.20%,+2.55%,+22.81%,+23.80%,+47.45%,0.68,0.68,2 stars
+VSDA,VictoryShares Dividend Accelerator ETF,https://finance.yahoo.com/chart/VSDA,50.96,+0.33,+0.66%,"111,468",+0.37%,-3.85%,+8.64%,+21.80%,+31.16%,0.40,0.40,3 stars
+KBWY,Invesco KBW Premium Yield Equity REIT ETF,https://finance.yahoo.com/chart/KBWY,17.54,+0.18,+1.04%,"106,500",-2.07%,-15.54%,+12.75%,+31.14%,+23.43%,0.35,0.35,1 star
+PMBS,PIMCO Mortgage-Backed Securitie,https://finance.yahoo.com/chart/PMBS,47.22,-0.37,-0.77%,"321,673",--,--,--,--,--,1.17,1.17,0 star
+RTH,VanEck Retail ETF,https://finance.yahoo.com/chart/RTH,227.68,+1.60,+0.71%,"3,124",+1.55%,+3.87%,+20.02%,+24.97%,+29.13%,0.35,0.35,4 stars
+UIVM,VictoryShares International Value Momentum ETF,https://finance.yahoo.com/chart/UIVM,46.48,+0.53,+1.15%,643,+0.60%,-4.16%,+16.35%,+11.73%,+15.45%,0.39,0.39,2 stars
+PSCI,Invesco S&P SmallCap Industrials ETF,https://finance.yahoo.com/chart/PSCI,139.59,+2.33,+1.70%,"8,043",+3.89%,+5.61%,+31.48%,+25.55%,+29.21%,0.29,0.29,4 stars
+FNK,First Trust Mid Cap Value AlphaDEX Fund,https://finance.yahoo.com/chart/FNK,55.00,+0.85,+1.57%,"30,027",+2.78%,+1.77%,+20.68%,+33.54%,+20.68%,0.70,0.70,3 stars
+FAD,First Trust Multi Cap Growth AlphaDEX Fund,https://finance.yahoo.com/chart/FAD,141.52,+2.31,+1.66%,"2,482",+2.40%,+3.73%,+19.24%,+20.71%,+27.17%,0.62,0.62,4 stars
+EVSD,Eaton Vance Short Duration Inco,https://finance.yahoo.com/chart/EVSD,50.63,+0.22,+0.45%,"9,413",--,--,--,--,--,0.24,0.24,0 star
+SDG,iShares MSCI Global Sustainable Development Goals ETF,https://finance.yahoo.com/chart/SDG,71.06,+0.92,+1.31%,"7,519",-0.70%,-10.94%,+4.66%,-1.02%,+24.78%,0.49,0.49,1 star
+TSLQ,Tradr 2X Short TSLA Daily ETF,https://finance.yahoo.com/chart/TSLQ,22.53,-4.32,-16.09%,13.391M,--,--,--,--,--,1.45,1.45,0 star
+SRET,Global X SuperDividend REIT ETF,https://finance.yahoo.com/chart/SRET,20.01,+0.27,+1.37%,"19,560",0.00%,-6.34%,+9.63%,+14.00%,+22.37%,0.59,0.59,2 stars
+AMZU,Direxion Daily AMZN Bull 2X Shares,https://finance.yahoo.com/chart/AMZU,43.29,+2.13,+5.17%,"451,612",--,--,--,--,--,1.08,1.08,0 star
+BSMR,Invesco BulletShares (R) 2027 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMR,23.56,+0.02,+0.08%,"241,542",--,--,--,--,--,0.18,0.18,0 star
+AIPI,REX AI Equity Premium Income ETF,https://finance.yahoo.com/chart/AIPI,49.64,+0.84,+1.72%,"81,902",--,--,--,--,--,0.65,0.65,0 star
+WGMI,CoinShares Valkyrie Bitcoin Miners ETF,https://finance.yahoo.com/chart/WGMI,24.57,+1.50,+6.50%,"474,536",--,--,--,--,--,0.75,0.75,0 star
+SEEM,SEI Select Emerging Markets Equ,https://finance.yahoo.com/chart/SEEM,22.95,-0.36,-1.55%,"21,082",--,--,--,--,--,0.60,0.60,0 star
+FJP,First Trust Japan AlphaDEX Fund,https://finance.yahoo.com/chart/FJP,50.24,+0.01,+0.02%,"11,411",-2.79%,-1.88%,+22.47%,-0.70%,+8.26%,0.80,0.80,2 stars
+TUG,STF Tactical Growth ETF,https://finance.yahoo.com/chart/TUG,33.90,+0.78,+2.37%,"13,170",--,--,--,--,--,0.65,0.65,0 star
+DAPP,VanEck Digital Transformation ETF,https://finance.yahoo.com/chart/DAPP,16.13,+0.93,+6.12%,"373,428",--,--,--,--,--,0.51,0.51,0 star
+TSLR,Graniteshares 2x Long TSLA Daily ETF,https://finance.yahoo.com/chart/TSLR,47.52,+6.48,+15.79%,1.126M,--,--,--,--,--,1.63,1.63,0 star
+FEP,First Trust Europe AlphaDEX Fund,https://finance.yahoo.com/chart/FEP,36.40,+0.73,+2.05%,"23,284",+1.63%,-3.66%,+16.07%,+16.53%,+24.47%,0.80,0.80,3 stars
+TDSC,Cabana Target Drawdown 10 ETF,https://finance.yahoo.com/chart/TDSC,24.98,+0.35,+1.41%,"27,667",--,--,--,--,--,0.91,0.91,0 star
+TUR,iShares MSCI Turkey ETF,https://finance.yahoo.com/chart/TUR,35.76,+0.30,+0.85%,"128,536",-0.28%,+7.49%,-9.16%,-27.51%,+13.94%,0.59,0.59,5 stars
+FTXO,First Trust Nasdaq Bank ETF,https://finance.yahoo.com/chart/FTXO,33.72,+1.06,+3.25%,"44,926",+6.01%,+11.07%,+0.19%,+40.56%,+30.12%,0.60,0.60,2 stars
+FEMB,First Trust Emerging Markets Local Currency Bond ETF,https://finance.yahoo.com/chart/FEMB,26.09,+0.03,+0.12%,"24,115",+0.42%,-5.62%,+16.82%,-13.35%,+11.60%,0.85,0.85,2 stars
+UEVM,VictoryShares Emerging Markets Value Momentum ETF,https://finance.yahoo.com/chart/UEVM,46.16,+0.32,+0.69%,616,-1.95%,-4.27%,+17.07%,+10.72%,+10.29%,0.52,0.52,4 stars
+PSCH,Invesco S&P SmallCap Health Care ETF,https://finance.yahoo.com/chart/PSCH,45.25,+0.62,+1.39%,"9,987",+2.17%,+0.31%,-2.62%,+5.62%,+19.91%,0.29,0.29,3 stars
+SFLO,Victoryshares Small Cap Free Cash Flow ETF,https://finance.yahoo.com/chart/SFLO,28.03,+0.40,+1.45%,"78,708",--,--,--,--,--,0.87,0.87,0 star
+BSJT,Invesco BulletShares 2029 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJT,21.53,+0.16,+0.72%,"77,895",--,--,--,--,--,0.42,0.42,0 star
+IFV,First Trust Dorsey Wright International Focus 5 ETF,https://finance.yahoo.com/chart/IFV,18.82,+0.19,+1.04%,"197,352",-1.81%,-7.21%,+19.88%,+6.12%,+25.43%,1.03,1.03,1 star
+GGLL,Direxion Daily GOOGL Bull 2X Shares,https://finance.yahoo.com/chart/GGLL,48.47,+2.83,+6.20%,"435,323",--,--,--,--,--,1.08,1.08,0 star
+PIZ,Invesco Dorsey Wright Developed Markets Momentum ETF,https://finance.yahoo.com/chart/PIZ,36.53,+0.56,+1.54%,"206,750",+0.59%,-2.52%,+17.88%,+20.78%,+27.32%,0.80,0.80,3 stars
+FDIG,Fidelity Crypto Industry and Digital Payments ETF,https://finance.yahoo.com/chart/FDIG,34.79,+1.57,+4.73%,"115,867",--,--,--,--,--,0.42,0.42,0 star
+SLVO,UBS ETRACS Silver Shares Covered Call ETN,https://finance.yahoo.com/chart/SLVO,76.97,+0.87,+1.14%,"17,175",+5.35%,-0.74%,-2.19%,-4.36%,+8.86%,0.65,0.65,0 star
+WOOD,iShares Global Timber & Forestry ETF,https://finance.yahoo.com/chart/WOOD,77.03,+0.98,+1.29%,"9,250",+0.90%,-5.95%,+13.83%,+16.73%,+19.58%,0.41,0.41,3 stars
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,https://finance.yahoo.com/chart/HYZD,22.55,+0.19,+0.85%,"42,551",+1.39%,+3.21%,+11.96%,+5.77%,+8.46%,0.43,0.43,5 stars
+QQQY,Defiance Nasdaq 100 Enhanced Options & 0DTE Income ETF,https://finance.yahoo.com/chart/QQQY,30.54,+0.28,+0.93%,"106,085",--,--,--,--,--,1.00,1.00,0 star
+FYT,First Trust Small Cap Value AlphaDEX Fund,https://finance.yahoo.com/chart/FYT,55.65,+0.98,+1.80%,"7,258",+1.16%,+1.80%,+22.94%,+29.54%,+24.81%,0.72,0.72,2 stars
+FDTX,Fidelity Disruptive Technology ETF,https://finance.yahoo.com/chart/FDTX,35.79,+0.69,+1.97%,"12,621",--,--,--,--,--,0.51,0.51,0 star
+FICS,First Trust International Developed Cap Strength ETF,https://finance.yahoo.com/chart/FICS,33.91,+0.32,+0.95%,"33,670",--,--,--,--,--,0.70,0.70,0 star
+BKCH,Global X Blockchain ETF,https://finance.yahoo.com/chart/BKCH,57.75,+3.40,+6.26%,"42,170",--,--,--,--,--,0.50,0.50,0 star
+HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/HYXF,46.41,+0.35,+0.76%,"10,841",+0.47%,+0.65%,+12.47%,+2.91%,+15.29%,0.35,0.35,2 stars
+BSMT,Invesco BulletShares 2029 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMT,22.85,+0.09,+0.37%,"211,309",--,--,--,--,--,0.18,0.18,0 star
+USDX,SGI Enhanced Core ETF,https://finance.yahoo.com/chart/USDX,25.60,+0.01,+0.04%,"688,313",--,--,--,--,--,1.05,1.05,0 star
+FTXN,First Trust Nasdaq Oil & Gas ETF,https://finance.yahoo.com/chart/FTXN,31.36,+0.46,+1.49%,"75,596",+9.08%,+6.40%,+5.00%,+69.03%,+3.19%,0.60,0.60,4 stars
+DTCR,Global X Data Center & Digital,https://finance.yahoo.com/chart/DTCR,16.49,+0.11,+0.67%,"144,842",--,--,--,--,--,0.50,0.50,0 star
+ERNZ,TrueShares Active Yield ETF,https://finance.yahoo.com/chart/ERNZ,24.35,+0.19,+0.78%,"50,940",--,--,--,--,--,0.75,0.75,0 star
+NUSB,Nuveen Ultra Short Income ETF,https://finance.yahoo.com/chart/NUSB,25.24,+0.01,+0.02%,2,--,--,--,--,--,0.17,0.17,0 star
+NZAC,SPDR MSCI ACWI Climate Paris Aligned ETF,https://finance.yahoo.com/chart/NZAC,36.45,+0.62,+1.73%,"3,586",+0.44%,-0.93%,+22.79%,+18.35%,+27.76%,0.12,0.12,4 stars
+ULVM,VictoryShares US Value Momentum ETF,https://finance.yahoo.com/chart/ULVM,82.42,+1.23,+1.51%,54,-0.04%,-1.68%,+10.14%,+30.93%,+21.71%,0.26,0.26,4 stars
+ZTWO,F/M 2-Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/ZTWO,50.34,+0.11,+0.22%,2,--,--,--,--,--,0.15,0.15,0 star
+ZTRE,F/M 3-Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/ZTRE,50.27,+0.18,+0.36%,46,--,--,--,--,--,0.15,0.15,0 star
+ROE,Astoria US Equal Weight Quality Kings ETF,https://finance.yahoo.com/chart/ROE,31.08,+0.39,+1.27%,"6,394",--,--,--,--,--,0.49,0.49,0 star
+UTEN,US Treasury 10 Year Note ETF,https://finance.yahoo.com/chart/UTEN,42.38,+0.46,+1.09%,"34,580",--,--,--,--,--,0.15,0.15,0 star
+QQA,Invesco QQQ Income Advantage ET,https://finance.yahoo.com/chart/QQA,50.62,+1.23,+2.49%,"12,946",--,--,--,--,--,0.29,0.29,0 star
+PGJ,Invesco Golden Dragon China ETF,https://finance.yahoo.com/chart/PGJ,25.31,+0.20,+0.82%,"13,641",-3.25%,-5.79%,-2.45%,-42.76%,+31.91%,0.71,0.71,2 stars
+BSMS,Invesco BulletShares (R) 2028 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMS,23.28,+0.06,+0.26%,"219,012",--,--,--,--,--,0.18,0.18,0 star
+BRTR,iShares Total Return Active ETF,https://finance.yahoo.com/chart/BRTR,49.22,+0.38,+0.79%,"10,189",--,--,--,--,--,0.41,0.41,0 star
+FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,https://finance.yahoo.com/chart/FVC,36.85,+0.58,+1.60%,"8,939",+0.82%,+1.84%,-4.49%,+21.70%,+18.76%,0.84,0.84,4 stars
+AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,https://finance.yahoo.com/chart/AGZD,22.57,+0.06,+0.24%,"34,661",+0.47%,+1.96%,+7.24%,+0.36%,+4.59%,0.23,0.23,3 stars
+CLSM,Cabana Target Leading Sector Moderate ETF,https://finance.yahoo.com/chart/CLSM,20.44,+0.31,+1.54%,"24,048",--,--,--,--,--,0.90,0.90,0 star
+SMCX,Defiance Daily Target 2X Long S,https://finance.yahoo.com/chart/SMCX,39.13,+1.12,+2.95%,"917,803",--,--,--,--,--,1.29,1.29,0 star
+UCRD,VictoryShares Corporate Bond ETF,https://finance.yahoo.com/chart/UCRD,20.88,+0.21,+1.02%,233,--,--,--,--,--,0.47,0.47,0 star
+BSMU,Invesco BulletShares 2030 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMU,21.66,+0.04,+0.19%,"62,382",--,--,--,--,--,0.18,0.18,0 star
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,https://finance.yahoo.com/chart/DGRE,25.02,+0.32,+1.30%,"18,761",0.00%,-7.80%,+17.25%,+2.37%,+19.94%,0.32,0.32,3 stars
+FPXI,First Trust International Equity Opportunities ETF,https://finance.yahoo.com/chart/FPXI,48.75,+0.97,+2.03%,"12,026",+3.39%,+0.89%,+9.20%,-15.31%,+31.94%,0.70,0.70,3 stars
+IVAL,Alpha Architect International Quantitative Value ETF,https://finance.yahoo.com/chart/IVAL,23.80,+0.30,+1.28%,"25,940",-0.92%,-4.01%,+20.12%,-0.02%,+20.59%,0.39,0.39,1 star
+FAB,First Trust Multi Cap Value AlphaDEX Fund,https://finance.yahoo.com/chart/FAB,84.37,+1.08,+1.29%,"2,096",+2.29%,+0.59%,+15.83%,+30.64%,+23.55%,0.64,0.64,3 stars
+FBL,GraniteShares 2x Long META Daily ETF,https://finance.yahoo.com/chart/FBL,36.29,+2.52,+7.46%,"859,760",--,--,--,--,--,1.22,1.22,0 star
+LDSF,First Trust Low Duration Strategic Focus ETF,https://finance.yahoo.com/chart/LDSF,18.77,+0.08,+0.41%,"6,013",+0.01%,-0.14%,+6.61%,-0.33%,0.00%,0.82,0.82,2 stars
+HECO,SPDR Galaxy Hedged Digital Asset Ecosystem ETF,https://finance.yahoo.com/chart/HECO,33.39,-0.34,-1.01%,85,--,--,--,--,--,0.90,0.90,0 star
+QABA,First Trust NASDAQ ABA Community Bank Index Fund,https://finance.yahoo.com/chart/QABA,56.15,+1.01,+1.83%,"20,264",+1.08%,+2.96%,-2.45%,+34.10%,+22.81%,0.67,0.67,2 stars
+MILN,Global X Millennials Consumer ETF,https://finance.yahoo.com/chart/MILN,45.68,+0.81,+1.81%,"35,338",+1.60%,+7.11%,+36.20%,+14.08%,+31.64%,0.50,0.50,2 stars
+BSCY,Invesco BulletShares 2034 Corpo,https://finance.yahoo.com/chart/BSCY,20.09,+0.23,+1.16%,"67,469",--,--,--,--,--,0.10,0.10,0 star
+PTH,Invesco Dorsey Wright Healthcare Momentum ETF,https://finance.yahoo.com/chart/PTH,40.21,+0.96,+2.45%,"8,412",+0.42%,-13.71%,-4.37%,-3.02%,+33.79%,0.71,0.71,3 stars
+UMMA,Wahed Dow Jones Islamic World ETF,https://finance.yahoo.com/chart/UMMA,23.92,+0.21,+0.89%,"24,667",--,--,--,--,--,0.65,0.65,0 star
+PIE,Invesco Dorsey Wright Emerging Markets Momentum ETF,https://finance.yahoo.com/chart/PIE,18.41,-0.01,-0.05%,"22,476",-4.21%,-8.87%,+13.44%,+13.28%,+25.34%,0.90,0.90,3 stars
+EWZS,iShares MSCI Brazil Small-Cap ETF,https://finance.yahoo.com/chart/EWZS,9.87,+0.38,+4.00%,"207,997",+6.70%,-16.08%,+31.25%,-15.81%,+50.67%,0.60,0.60,2 stars
+MSFU,Direxion Daily MSFT Bull 2X Shares,https://finance.yahoo.com/chart/MSFU,40.18,+1.95,+5.10%,"352,245",--,--,--,--,--,1.08,1.08,0 star
+DWUS,AdvisorShares Dorsey Wright FSM US Core ETF,https://finance.yahoo.com/chart/DWUS,49.10,+0.83,+1.72%,"4,057",--,--,--,--,--,1.14,1.14,0 star
+SOCL,Global X Social Media ETF,https://finance.yahoo.com/chart/SOCL,43.33,+1.42,+3.39%,"6,348",+2.39%,+2.53%,+30.93%,-12.79%,+25.23%,0.65,0.65,2 stars
+VSMV,VictoryShares US Multi-Factor Minimum Volatility ETF,https://finance.yahoo.com/chart/VSMV,48.64,+0.45,+0.93%,"41,347",+1.29%,-0.10%,+12.24%,+25.61%,+26.22%,0.42,0.42,3 stars
+MBS,Angel Oak Mortgage-Backed Securities ETF,https://finance.yahoo.com/chart/MBS,8.48,+0.03,+0.36%,"231,848",--,--,--,--,--,0.80,0.80,0 star
+FDIV,MarketDesk Focused U.S. Dividend ETF,https://finance.yahoo.com/chart/FDIV,27.16,+0.15,+0.56%,"2,317",--,--,--,--,--,0.35,0.35,0 star
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,https://finance.yahoo.com/chart/QQXT,94.43,+1.12,+1.20%,"3,113",+1.42%,+0.93%,+16.79%,+11.80%,+28.35%,0.62,0.62,1 star
+AOHY,Angel Oak High Yield Opportunities ETF,https://finance.yahoo.com/chart/AOHY,11.04,+0.06,+0.50%,"53,740",--,--,--,--,--,0.56,0.56,0 star
+DVAL,BrandywineGLOBAL Dynamic U.S. Large Cap Value ETF,https://finance.yahoo.com/chart/DVAL,13.81,+0.12,+0.91%,978,--,--,--,--,--,0.49,0.49,0 star
+WCBR,WisdomTree Cybersecurity Fund,https://finance.yahoo.com/chart/WCBR,28.85,+0.53,+1.87%,"12,496",--,--,--,--,--,0.45,0.45,0 star
+DALI,First Trust Dorsey Wright DALI 1 ETF,https://finance.yahoo.com/chart/DALI,26.33,+0.50,+1.93%,"1,484",+2.03%,+3.43%,-8.17%,+22.32%,+24.26%,1.07,1.07,3 stars
+FTRI,First Trust Indxx Global Natural Resources Income ETF,https://finance.yahoo.com/chart/FTRI,12.64,+0.11,+0.84%,"176,825",+5.11%,-4.89%,+1.74%,+25.87%,+21.64%,0.70,0.70,2 stars
+GLDI,UBS ETRACS Gold Shares Covered Call ETN,https://finance.yahoo.com/chart/GLDI,157.00,+0.24,+0.15%,"1,499",+2.82%,+2.48%,+8.98%,-3.28%,+13.98%,0.65,0.65,0 star
+JIVE,Jpmorgan International Value ETF,https://finance.yahoo.com/chart/JIVE,55.46,+0.61,+1.12%,"4,463",--,--,--,--,--,0.55,0.55,0 star
+XOVR,ERShares Private-Public Crossov,https://finance.yahoo.com/chart/XOVR,18.18,-0.29,-1.57%,"466,037",+36.72%,+18.95%,+51.35%,-9.30%,+31.66%,0.75,0.75,1 star
+RFDI,First Trust RiverFront Dynamic Developed International ETF,https://finance.yahoo.com/chart/RFDI,61.88,+0.60,+0.98%,"4,968",+0.68%,-4.13%,+17.78%,+16.30%,+20.15%,0.83,0.83,2 stars
+LEXI,Alexis Practical Tactical ETF,https://finance.yahoo.com/chart/LEXI,30.53,+0.45,+1.50%,573,--,--,--,--,--,1.01,1.01,0 star
+FBOT,Fidelity Disruptive Automation ETF,https://finance.yahoo.com/chart/FBOT,28.41,+0.48,+1.71%,"5,643",--,--,--,--,--,0.51,0.51,0 star
+BRHY,iShares High Yield Active ETF,https://finance.yahoo.com/chart/BRHY,51.01,+0.27,+0.54%,103,--,--,--,--,--,0.45,0.45,0 star
+SMCO,Hilton Small-Midcap Opportunity ETF,https://finance.yahoo.com/chart/SMCO,26.41,+0.44,+1.69%,"3,314",--,--,--,--,--,0.55,0.55,0 star
+AVGX,Defiance Daily Target 2X Long A,https://finance.yahoo.com/chart/AVGX,30.14,-1.38,-4.38%,"513,753",--,--,--,--,--,1.29,1.29,0 star
+AMID,Argent Mid Cap ETF,https://finance.yahoo.com/chart/AMID,34.98,+0.57,+1.66%,"12,424",--,--,--,--,--,0.52,0.52,0 star
+HERO,Global X Video Games & Esports ETF,https://finance.yahoo.com/chart/HERO,23.70,+0.48,+2.07%,"17,497",--,--,--,--,--,0.50,0.50,0 star
+STNC,Hennessy Stance ESG ETF,https://finance.yahoo.com/chart/STNC,30.53,+0.32,+1.07%,"13,402",--,--,--,--,--,0.95,0.95,0 star
+FAAR,First Trust Alternative Absolute Return Strategy ETF,https://finance.yahoo.com/chart/FAAR,28.75,+0.39,+1.36%,"10,950",+2.62%,+4.23%,-5.72%,+13.52%,-1.26%,1.01,1.01,2 stars
+CIL,VictoryShares International Volatility Wtd ETF,https://finance.yahoo.com/chart/CIL,42.05,+0.59,+1.44%,62,+0.35%,-5.30%,+15.54%,+12.27%,+20.00%,0.60,0.60,2 stars
+AAPU,Direxion Daily AAPL Bull 2X Shares,https://finance.yahoo.com/chart/AAPU,33.79,+1.28,+3.94%,"790,976",--,--,--,--,--,1.07,1.07,0 star
+LGRO,ALPS ETF Trust - Level Four Large Cap Growth Active ETF,https://finance.yahoo.com/chart/LGRO,35.44,+0.85,+2.46%,"3,692",--,--,--,--,--,0.50,0.50,0 star
+PSCE,Invesco S&P SmallCap Energy ETF,https://finance.yahoo.com/chart/PSCE,52.90,+1.30,+2.52%,"13,329",+9.30%,+7.19%,+4.94%,+59.61%,-15.05%,0.29,0.29,2 stars
+QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,https://finance.yahoo.com/chart/QYLG,28.48,+0.58,+2.08%,"50,705",--,--,--,--,--,0.35,0.35,0 star
+BSJU,Invesco Bulletshares 2030 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJU,25.86,+0.22,+0.84%,"30,926",--,--,--,--,--,0.42,0.42,0 star
+FDIF,Fidelity Disruptors ETF,https://finance.yahoo.com/chart/FDIF,31.99,+0.56,+1.78%,"5,118",--,--,--,--,--,0.51,0.51,0 star
+ECOW,Pacer Emerging Markets Cash Cows 100 ETF,https://finance.yahoo.com/chart/ECOW,19.50,+0.25,+1.30%,"15,159",--,--,--,--,--,0.70,0.70,0 star
+PSL,Invesco Dorsey Wright Consumer Staples Momentum ETF,https://finance.yahoo.com/chart/PSL,106.36,+0.69,+0.65%,"1,675",+1.34%,+4.35%,+12.38%,+6.57%,+13.81%,0.76,0.76,4 stars
+BSMW,Invesco Bulletshares 2032 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMW,24.76,+0.01,+0.02%,"28,457",--,--,--,--,--,0.18,0.18,0 star
+QBUF,Innovator Nasdaq-100 10 Buffer,https://finance.yahoo.com/chart/QBUF,26.65,+0.29,+1.10%,"6,902",--,--,--,--,--,0.79,0.79,0 star
+HERD,Pacer Cash Cows Fund of Funds ETF,https://finance.yahoo.com/chart/HERD,38.69,+0.47,+1.24%,"7,010",--,--,--,--,--,0.74,0.74,0 star
+IEUS,iShares MSCI Europe Small-Cap ETF,https://finance.yahoo.com/chart/IEUS,53.35,+1.09,+2.09%,"29,002",-0.56%,-8.21%,+16.63%,+14.75%,+28.91%,0.41,0.41,2 stars
+SWP,SWP Growth & Income ETF,https://finance.yahoo.com/chart/SWP,24.86,-0.39,-1.53%,"8,371",--,--,--,--,--,0.99,0.99,0 star
+IFGL,iShares International Developed Real Estate ETF,https://finance.yahoo.com/chart/IFGL,19.17,+0.30,+1.59%,"27,094",-0.67%,-11.63%,+5.86%,+7.99%,+20.80%,0.54,0.54,1 star
+IQQQ,ProShares Nasdaq-100 High Incom,https://finance.yahoo.com/chart/IQQQ,42.93,+0.81,+1.92%,"13,431",--,--,--,--,--,0.55,0.55,0 star
+LEGR,First Trust Indxx Innovative Transaction & Process ETF,https://finance.yahoo.com/chart/LEGR,46.99,+0.71,+1.54%,"3,530",+1.28%,+0.86%,+21.84%,+17.81%,+27.99%,0.65,0.65,3 stars
+GPRF,Goldman Sachs Access U.S. Prefe,https://finance.yahoo.com/chart/GPRF,49.98,-0.02,-0.04%,8,--,--,--,--,--,0.45,0.45,0 star
+BSMV,Invesco BulletShares 2031 Municipal Bond ETF,https://finance.yahoo.com/chart/BSMV,20.81,+0.03,+0.17%,"173,543",--,--,--,--,--,0.18,0.18,0 star
+ESN,Essential 40 Stock ETF,https://finance.yahoo.com/chart/ESN,14.85,-0.04,-0.27%,"8,122",--,--,--,--,--,1.00,1.00,0 star
+DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF,https://finance.yahoo.com/chart/DWAW,40.88,+0.65,+1.63%,"1,469",--,--,--,--,--,1.30,1.30,0 star
+TDSB,Cabana Target Beta ETF,https://finance.yahoo.com/chart/TDSB,21.81,+0.18,+0.81%,"20,138",--,--,--,--,--,0.95,0.95,0 star
+EMXF,iShares ESG Advanced MSCI EM ETF,https://finance.yahoo.com/chart/EMXF,37.15,+0.30,+0.81%,"2,444",--,--,--,--,--,0.17,0.17,0 star
+IPKW,Invesco International BuyBack Achievers ETF,https://finance.yahoo.com/chart/IPKW,40.36,+0.59,+1.47%,"6,564",+1.63%,-2.25%,+15.01%,+11.11%,+20.11%,0.55,0.55,5 stars
+PY,Principal Value ETF,https://finance.yahoo.com/chart/PY,50.30,+0.66,+1.33%,"3,656",+1.57%,+0.56%,+9.10%,+34.76%,+26.33%,0.15,0.15,4 stars
+FCVT,First Trust SSI Strategic Convertible Securities ETF,https://finance.yahoo.com/chart/FCVT,37.09,+0.52,+1.42%,"15,440",+0.82%,+2.99%,+6.86%,+3.69%,+22.43%,0.95,0.95,3 stars
+ENZL,iShares MSCI New Zealand ETF,https://finance.yahoo.com/chart/ENZL,45.30,+0.67,+1.51%,"2,870",+0.27%,-6.26%,+3.53%,-10.86%,+29.73%,0.50,0.50,0 star
+KEAT,Keating Active ETF,https://finance.yahoo.com/chart/KEAT,25.74,+0.19,+0.76%,"6,396",--,--,--,--,--,0.85,0.85,0 star
+FID,First Trust S&P International Dividend Aristocrats ETF,https://finance.yahoo.com/chart/FID,16.04,+0.17,+1.07%,"17,062",-1.47%,-6.13%,+9.22%,+12.99%,+21.11%,0.60,0.60,1 star
+IMOM,Alpha Architect International Quantitative Momentum ETF,https://finance.yahoo.com/chart/IMOM,26.77,+0.34,+1.27%,"6,436",+0.83%,-0.94%,+9.16%,-1.04%,+17.42%,0.39,0.39,2 stars
+PFI,Invesco Dorsey Wright Financial Momentum ETF,https://finance.yahoo.com/chart/PFI,58.03,+1.80,+3.20%,"3,960",+1.79%,+2.50%,+12.54%,+28.67%,+36.63%,0.84,0.84,3 stars
+FSZ,First Trust Switzerland AlphaDEX Fund,https://finance.yahoo.com/chart/FSZ,63.29,+0.70,+1.11%,"6,844",+0.34%,-8.61%,+22.12%,+19.68%,+26.02%,0.80,0.80,0 star
+GINX,SGI Enhanced Global Income ETF,https://finance.yahoo.com/chart/GINX,26.15,+0.30,+1.16%,"13,672",--,--,--,--,--,0.99,0.99,0 star
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,https://finance.yahoo.com/chart/DXJS,33.33,-0.01,-0.03%,"10,503",-3.61%,+0.26%,+36.70%,+11.98%,+18.32%,0.58,0.58,5 stars
+NVD,Graniteshares 2x Short NVDA Daily ETF,https://finance.yahoo.com/chart/NVD,28.40,-2.01,-6.61%,"894,879",--,--,--,--,--,1.73,1.73,0 star
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,https://finance.yahoo.com/chart/EMCB,65.09,+0.63,+0.98%,"3,073",+0.27%,-0.56%,+9.16%,-0.22%,+13.01%,0.60,0.60,3 stars
+SDSI,American Century Short Duration Strategic Income ETF,https://finance.yahoo.com/chart/SDSI,50.98,+0.14,+0.27%,"5,238",--,--,--,--,--,0.32,0.32,0 star
+QQMG,Invesco ESG NASDAQ 100 ETF,https://finance.yahoo.com/chart/QQMG,35.05,+0.78,+2.28%,"20,182",--,--,--,--,--,0.20,0.20,0 star
+PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,https://finance.yahoo.com/chart/PEZ,99.37,+1.70,+1.74%,"5,620",+0.63%,-5.90%,+29.55%,+19.98%,+18.27%,0.86,0.86,3 stars
+UAE,iShares MSCI UAE ETF,https://finance.yahoo.com/chart/UAE,17.00,+0.27,+1.61%,"98,812",+3.28%,+13.46%,+2.76%,+44.73%,-0.64%,0.60,0.60,0 star
+TSLS,Direxion Daily TSLA Bear 1X Shares,https://finance.yahoo.com/chart/TSLS,7.46,-0.64,-7.90%,9.875M,--,--,--,--,--,1.07,1.07,0 star
+DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,https://finance.yahoo.com/chart/DDIV,38.96,+0.49,+1.29%,"53,766",+3.14%,+3.94%,+9.99%,+39.70%,+32.31%,0.60,0.60,4 stars
+GNOM,Global X Genomics & Biotechnology ETF,https://finance.yahoo.com/chart/GNOM,9.66,+0.07,+0.76%,"63,393",-0.48%,-11.99%,-8.61%,-16.00%,0.00%,0.50,0.50,1 star
+ISHG,iShares 1-3 Year International Treasury Bond ETF,https://finance.yahoo.com/chart/ISHG,67.06,+0.29,+0.43%,"5,546",-0.46%,-4.75%,+3.93%,-7.03%,-0.41%,0.35,0.35,2 stars
+HRTS,Tema Obesity & Cardiometabolic ETF,https://finance.yahoo.com/chart/HRTS,28.95,+0.28,+0.98%,"8,862",--,--,--,--,--,0.99,0.99,0 star
+DAX,Global X DAX Germany ETF,https://finance.yahoo.com/chart/DAX,34.53,+0.56,+1.65%,"5,560",+3.63%,+0.59%,+23.59%,+7.09%,+22.47%,0.20,0.20,0 star
+EBIZ,Global X E-commerce ETF,https://finance.yahoo.com/chart/EBIZ,28.18,+0.64,+2.32%,"6,278",+1.59%,+4.48%,+30.50%,-13.02%,+32.40%,0.50,0.50,2 stars
+QAT,iShares MSCI Qatar ETF,https://finance.yahoo.com/chart/QAT,17.76,+0.23,+1.31%,"19,804",-0.95%,-1.94%,+1.85%,+13.86%,-0.13%,0.60,0.60,0 star
+FKU,First Trust United Kingdom AlphaDEX Fund,https://finance.yahoo.com/chart/FKU,37.33,+0.77,+2.11%,"1,070",-1.97%,-6.37%,+20.62%,+19.08%,+32.42%,0.80,0.80,0 star
+SPC,CrossingBridge Pre-Merger SPAC ETF,https://finance.yahoo.com/chart/SPC,20.73,+0.02,+0.12%,"24,022",--,--,--,--,--,0.81,0.81,0 star
+BLCN,Siren Nasdaq NexGen Economy ETF,https://finance.yahoo.com/chart/BLCN,26.70,+0.70,+2.69%,"7,615",+4.13%,+4.34%,+17.64%,+5.34%,+33.85%,0.68,0.68,4 stars
+QTOP,iShares Nasdaq Top 30 Stocks ET,https://finance.yahoo.com/chart/QTOP,25.86,-0.45,-1.71%,"93,135",--,--,--,--,--,0.20,0.20,0 star
+PXI,Invesco Dorsey Wright Energy Momentum ETF,https://finance.yahoo.com/chart/PXI,48.01,+0.67,+1.42%,"1,652",+8.24%,+8.23%,+5.31%,+75.09%,+1.38%,0.75,0.75,3 stars
+BSSX,Invesco Bulletshares 2033 Municipal Bond ETF,https://finance.yahoo.com/chart/BSSX,25.56,+0.14,+0.53%,"12,682",--,--,--,--,--,0.18,0.18,0 star
+BIB,ProShares Ultra Nasdaq Biotechnology,https://finance.yahoo.com/chart/BIB,50.82,+1.80,+3.67%,"7,406",+0.32%,-20.52%,-1.28%,-5.91%,+45.50%,1.14,1.14,0 star
+TARK,Tradr 2X Long Innovation ETF,https://finance.yahoo.com/chart/TARK,46.16,+3.47,+8.13%,"52,629",--,--,--,--,--,1.49,1.49,0 star
+ZTEN,F/M 10-Year Investment Grade Corporate Bond ETF,https://finance.yahoo.com/chart/ZTEN,49.24,+0.54,+1.12%,307,--,--,--,--,--,0.15,0.15,0 star
+MAGX,Roundhill Daily 2X Long Magnifi,https://finance.yahoo.com/chart/MAGX,47.67,+3.17,+7.12%,"220,040",--,--,--,--,--,0.99,0.99,0 star
+TSMX,Direxion Daily TSM Bull 2X Shar,https://finance.yahoo.com/chart/TSMX,32.63,+0.31,+0.96%,"718,042",--,--,--,--,--,0.99,0.99,0 star
+PSET,Principal Quality ETF,https://finance.yahoo.com/chart/PSET,72.49,+1.07,+1.49%,"2,408",+1.28%,+1.26%,+23.84%,+29.15%,+33.75%,0.15,0.15,3 stars
+GTR,WisdomTree Target Range Fund,https://finance.yahoo.com/chart/GTR,23.94,+0.42,+1.79%,"3,088",--,--,--,--,--,0.70,0.70,0 star
+AGNG,Global X Aging Population ETF,https://finance.yahoo.com/chart/AGNG,30.45,+0.22,+0.71%,"3,974",+0.88%,-6.78%,+9.71%,+3.63%,+24.98%,0.50,0.50,3 stars
+CPLS,AB Core Plus Bond ETF,https://finance.yahoo.com/chart/CPLS,34.78,+0.29,+0.83%,"7,482",--,--,--,--,--,0.33,0.33,0 star
+FDCF,Fidelity Disruptive Communications ETF,https://finance.yahoo.com/chart/FDCF,38.54,+0.84,+2.23%,"6,653",--,--,--,--,--,0.51,0.51,0 star
+DVOL,First Trust Dorsey Wright Momentum & Low Volatility ETF,https://finance.yahoo.com/chart/DVOL,34.52,+0.26,+0.75%,"5,702",+1.88%,+1.48%,+5.35%,+29.95%,+25.79%,0.60,0.60,1 star
+KBWR,Invesco KBW Regional Banking ETF,https://finance.yahoo.com/chart/KBWR,61.89,+1.40,+2.32%,"2,604",+3.51%,+5.76%,-0.67%,+36.15%,+23.34%,0.35,0.35,2 stars
+MAXI,Simplify Bitcoin Strategy PLUS Income ETF,https://finance.yahoo.com/chart/MAXI,28.74,+1.60,+5.90%,"46,523",--,--,--,--,--,6.10,6.10,0 star
+LFSC,F/m Emerald Life Sciences Innov,https://finance.yahoo.com/chart/LFSC,23.46,-0.82,-3.37%,"2,943",--,--,--,--,--,0.79,0.79,0 star
+IHYF,Invesco High Yield Bond Factor ETF,https://finance.yahoo.com/chart/IHYF,22.61,+0.16,+0.70%,"1,050",--,--,--,--,--,0.39,0.39,0 star
+PYZ,Invesco Dorsey Wright Basic Materials Momentum ETF,https://finance.yahoo.com/chart/PYZ,91.15,+1.27,+1.41%,"1,551",+5.05%,-4.65%,+9.62%,+32.71%,+19.37%,0.75,0.75,3 stars
+DYTA,SGI Dynamic Tactical ETF,https://finance.yahoo.com/chart/DYTA,28.21,+0.47,+1.69%,"4,997",--,--,--,--,--,1.32,1.32,0 star
+PPI,AXS Astoria Real Assets ETF,https://finance.yahoo.com/chart/PPI,15.15,+0.16,+1.07%,"10,262",--,--,--,--,--,0.78,0.78,0 star
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,https://finance.yahoo.com/chart/PSCC,37.02,+0.10,+0.27%,"1,483",-2.68%,-2.14%,+14.87%,+28.44%,+17.68%,0.29,0.29,5 stars
+EHLS,Even Herd Long Short ETF,https://finance.yahoo.com/chart/EHLS,22.64,+0.45,+2.02%,"5,656",--,--,--,--,--,1.58,1.58,0 star
+FMED,Fidelity Disruptive Medicine ETF,https://finance.yahoo.com/chart/FMED,25.31,+0.34,+1.36%,"13,342",--,--,--,--,--,0.51,0.51,0 star
+SPRX,Spear Alpha ETF,https://finance.yahoo.com/chart/SPRX,28.18,+1.27,+4.72%,"63,647",--,--,--,--,--,0.75,0.75,0 star
+NCPB,Nuveen Core Plus Bond ETF,https://finance.yahoo.com/chart/NCPB,24.65,+0.18,+0.75%,"29,898",--,--,--,--,--,0.30,0.30,0 star
+YLDE,ClearBridge Dividend Strategy ESG ETF,https://finance.yahoo.com/chart/YLDE,51.10,+0.62,+1.23%,"2,044",+0.62%,+0.57%,+15.58%,+22.33%,+29.41%,0.47,0.47,4 stars
+PUI,Invesco Dorsey Wright Utilities Momentum ETF,https://finance.yahoo.com/chart/PUI,39.57,+0.57,+1.45%,"2,156",+2.29%,-0.48%,-4.41%,+14.95%,+21.31%,0.84,0.84,3 stars
+SMST,Defiance Daily Target 2X Short MSTR ETF,https://finance.yahoo.com/chart/SMST,4.60,-0.54,-10.51%,24.774M,--,--,--,--,--,1.29,1.29,0 star
+UFO,Procure Space ETF,https://finance.yahoo.com/chart/UFO,22.62,+0.55,+2.49%,"18,773",--,--,--,--,--,0.82,0.82,0 star
+AOTG,AOT Growth and Innovation ETF,https://finance.yahoo.com/chart/AOTG,45.35,+1.26,+2.87%,9,--,--,--,--,--,0.75,0.75,0 star
+TDI,Touchstone Dynamic International ETF,https://finance.yahoo.com/chart/TDI,27.63,+0.23,+0.84%,"4,190",--,--,--,--,--,1.79,1.79,0 star
+SARK,Tradr 2X Short Innovation Daily ETF,https://finance.yahoo.com/chart/SARK,38.51,-3.44,-8.20%,"385,900",--,--,--,--,--,0.94,0.94,0 star
+FDFF,Fidelity Disruptive Finance ETF,https://finance.yahoo.com/chart/FDFF,37.24,+0.93,+2.56%,"7,071",--,--,--,--,--,0.51,0.51,0 star
+IBTP,iShares iBonds Dec 2034 Term Tr,https://finance.yahoo.com/chart/IBTP,24.74,+0.27,+1.10%,"67,023",--,--,--,--,--,0.07,0.07,0 star
+TSDD,Graniteshares 2x Short TSLA Daily ETF,https://finance.yahoo.com/chart/TSDD,28.28,-5.37,-15.96%,"843,127",--,--,--,--,--,2.59,2.59,0 star
+FCA,First Trust China AlphaDEX Fund,https://finance.yahoo.com/chart/FCA,19.33,-0.02,-0.12%,"2,231",-3.60%,-3.31%,-9.31%,-1.28%,+17.44%,0.80,0.80,4 stars
+HQGO,Hartford US Quality Growth ETF,https://finance.yahoo.com/chart/HQGO,54.35,+2.06,+3.94%,4,--,--,--,--,--,0.34,0.34,0 star
+BABX,GraniteShares 2x Long BABA Daily ETF,https://finance.yahoo.com/chart/BABX,15.13,+0.28,+1.89%,"339,521",--,--,--,--,--,1.52,1.52,0 star
+CANC,Tema Oncology ETF,https://finance.yahoo.com/chart/CANC,24.54,+0.26,+1.07%,"100,996",--,--,--,--,--,0.99,0.99,0 star
+PABD,iShares Paris-Aligned Climate MSCI World Ex USA ETF,https://finance.yahoo.com/chart/PABD,51.39,+0.72,+1.43%,19,--,--,--,--,--,0.12,0.12,0 star
+METU,Direxion Daily META Bull 2X Sha,https://finance.yahoo.com/chart/METU,36.61,+2.58,+7.58%,"558,384",--,--,--,--,--,1.09,1.09,0 star
+WTBN,Wisdomtree Bianco Fixed Income Total Return Fund,https://finance.yahoo.com/chart/WTBN,24.75,+0.22,+0.88%,"3,753",--,--,--,--,--,0.61,0.61,0 star
+NVDS,Tradr 1.5X Short NVDA Daily ETF,https://finance.yahoo.com/chart/NVDS,24.46,-1.29,-5.01%,"789,236",--,--,--,--,--,1.42,1.42,0 star
+IBGA,iShares iBonds Dec 2044 Term Tr,https://finance.yahoo.com/chart/IBGA,24.20,+0.36,+1.49%,"19,993",--,--,--,--,--,0.07,0.07,0 star
+HISF,First Trust High Income Strategic Focus ETF,https://finance.yahoo.com/chart/HISF,43.72,+0.31,+0.71%,"3,103",-0.14%,-1.81%,+6.50%,+9.53%,+15.46%,0.87,0.87,1 star
+KNGZ,First Trust S&P 500 Diversified Dividend Aristocrats ETF,https://finance.yahoo.com/chart/KNGZ,32.74,+0.35,+1.09%,"11,081",+1.62%,-4.32%,+9.74%,+27.37%,+26.86%,0.50,0.50,3 stars
+UFIV,US Treasury 5 Year Note ETF,https://finance.yahoo.com/chart/UFIV,47.76,+0.31,+0.65%,"30,310",--,--,--,--,--,0.15,0.15,0 star
+CSF,VictoryShares US Discovery Enhanced Volatility Wtd ETF,https://finance.yahoo.com/chart/CSF,55.89,+0.76,+1.39%,941,+1.86%,+2.18%,-7.00%,+29.61%,+2.03%,0.53,0.53,2 stars
+REIT,ALPS Active REIT ETF,https://finance.yahoo.com/chart/REIT,26.90,+0.14,+0.52%,"8,574",--,--,--,--,--,0.68,0.68,0 star
+TUGN,STF Tactical Growth & Income ETF,https://finance.yahoo.com/chart/TUGN,24.33,+0.61,+2.57%,"13,505",--,--,--,--,--,0.65,0.65,0 star
+DEMZ,Democratic Large Cap Core ETF,https://finance.yahoo.com/chart/DEMZ,36.27,+0.51,+1.43%,458,--,--,--,--,--,0.45,0.45,0 star
+WABF,Western Asset Bond ETF,https://finance.yahoo.com/chart/WABF,24.83,+0.26,+1.06%,251,--,--,--,--,--,0.35,0.35,0 star
+OZEM,Roundhill GLP-1 & Weight Loss E,https://finance.yahoo.com/chart/OZEM,23.67,+0.29,+1.25%,"13,680",--,--,--,--,--,0.59,0.59,0 star
+SPBC,Simplify US Equity PLUS Bitcoin Strategy ETF,https://finance.yahoo.com/chart/SPBC,39.41,+0.86,+2.24%,"5,104",--,--,--,--,--,0.76,0.76,0 star
+FCEF,First Trust Income Opportunity ETF,https://finance.yahoo.com/chart/FCEF,21.86,+0.28,+1.30%,"2,756",+1.79%,+0.16%,+10.41%,+19.17%,+28.19%,3.67,3.67,3 stars
+FDNI,First Trust Dow Jones International Internet ETF,https://finance.yahoo.com/chart/FDNI,26.98,+0.59,+2.25%,"4,106",-1.15%,-3.71%,+2.15%,-20.03%,+37.69%,0.65,0.65,2 stars
+IBBQ,Invesco Nasdaq Biotechnology ETF,https://finance.yahoo.com/chart/IBBQ,21.58,+0.37,+1.74%,"4,850",--,--,--,--,--,0.19,0.19,0 star
+EDOC,Global X Telemedicine & Digital Health ETF,https://finance.yahoo.com/chart/EDOC,10.16,+0.09,+0.89%,"8,530",--,--,--,--,--,0.68,0.68,0 star
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,https://finance.yahoo.com/chart/CSA,75.29,+1.17,+1.58%,426,+1.75%,+2.21%,+16.23%,+29.66%,+23.54%,0.55,0.55,4 stars
+NIXT,Research Affiliates Deletions E,https://finance.yahoo.com/chart/NIXT,26.18,+0.68,+2.66%,"5,144",--,--,--,--,--,0.39,0.39,0 star
+GFGF,Guru Favorite Stocks ETF,https://finance.yahoo.com/chart/GFGF,32.06,+0.71,+2.26%,610,--,--,--,--,--,0.65,0.65,0 star
+HYDR,Global X Hydrogen ETF,https://finance.yahoo.com/chart/HYDR,23.05,+0.01,+0.04%,"10,106",--,--,--,--,--,0.50,0.50,0 star
+PDBA,Invesco Agriculture Commodity Strategy No K-1 ETF,https://finance.yahoo.com/chart/PDBA,35.50,+0.05,+0.14%,"43,130",--,--,--,--,--,0.74,0.74,0 star
+BTF,CoinShares Valkyrie Bitcoin and Ether Strategy ETF,https://finance.yahoo.com/chart/BTF,15.30,+0.72,+4.94%,"41,844",--,--,--,--,--,1.24,1.24,0 star
+XFIX,F/m Opportunistic Income ETF,https://finance.yahoo.com/chart/XFIX,51.58,+0.27,+0.53%,199,--,--,--,--,--,0.40,0.40,0 star
+HIDE,Alpha Architect High Inflation And Deflation ETF,https://finance.yahoo.com/chart/HIDE,22.30,+0.06,+0.29%,"1,401",--,--,--,--,--,0.31,0.31,0 star
+ALTY,Global X Alternative Income ETF,https://finance.yahoo.com/chart/ALTY,11.75,+0.11,+0.95%,"3,489",+1.38%,+0.32%,+11.09%,+23.50%,+21.36%,0.50,0.50,1 star
+FTXR,First Trust Nasdaq Transportation ETF,https://finance.yahoo.com/chart/FTXR,35.47,+0.44,+1.26%,"4,386",+3.17%,+11.08%,+20.65%,+24.22%,+14.52%,0.60,0.60,2 stars
+ICOP,Ishares Copper And Metals Mining ETF,https://finance.yahoo.com/chart/ICOP,26.64,+0.42,+1.60%,"3,566",--,--,--,--,--,0.47,0.47,0 star
+FMET,Fidelity Metaverse ETF,https://finance.yahoo.com/chart/FMET,30.32,+0.78,+2.64%,"9,956",--,--,--,--,--,0.42,0.42,0 star
+SETM,Sprott Critical Materials ETF,https://finance.yahoo.com/chart/SETM,16.13,+0.40,+2.54%,"14,248",--,--,--,--,--,0.65,0.65,0 star
+CTEC,Global X CleanTech ETF,https://finance.yahoo.com/chart/CTEC,6.96,+0.03,+0.51%,"56,231",--,--,--,--,--,0.50,0.50,0 star
+BDGS,Bridges Capital Tactical ETF,https://finance.yahoo.com/chart/BDGS,31.88,+0.43,+1.36%,"14,239",--,--,--,--,--,0.88,0.88,0 star
+BITS,Global X Blockchain & Bitcoin Strategy ETF,https://finance.yahoo.com/chart/BITS,73.42,+3.42,+4.89%,"4,268",--,--,--,--,--,0.65,0.65,0 star
+BJK,VanEck Gaming ETF,https://finance.yahoo.com/chart/BJK,39.91,+0.19,+0.47%,"2,908",-1.60%,-5.32%,+12.02%,-4.19%,+30.23%,0.74,0.74,1 star
+CCSO,Carbon Collective Climate Solutions U.S. Equity ETF,https://finance.yahoo.com/chart/CCSO,20.91,+0.40,+1.95%,252,--,--,--,--,--,0.35,0.35,0 star
+DYFI,IDX Dynamic Fixed Income ETF,https://finance.yahoo.com/chart/DYFI,23.30,+0.02,+0.09%,"3,433",--,--,--,--,--,1.33,1.33,0 star
+AMZZ,GraniteShares 2x Long AMZN Daily ETF,https://finance.yahoo.com/chart/AMZZ,35.60,+1.69,+4.98%,"89,526",--,--,--,--,--,2.28,2.28,0 star
+SMHX,VanEck ETF Trust - VanEck Fabless Semiconductor ETF,https://finance.yahoo.com/chart/SMHX,30.06,+0.78,+2.66%,"53,498",--,--,--,--,--,0.35,0.35,0 star
+LDEM,iShares ESG MSCI EM Leaders ETF,https://finance.yahoo.com/chart/LDEM,45.36,+0.68,+1.52%,"4,329",--,--,--,--,--,0.17,0.17,0 star
+DVLU,First Trust Dorsey Wright Momentum & Value ETF,https://finance.yahoo.com/chart/DVLU,30.18,+0.59,+1.99%,157,+1.56%,-5.76%,+18.62%,+42.15%,+29.71%,0.60,0.60,3 stars
+CARZ,First Trust S-Network Future Vehicles & Technology ETF,https://finance.yahoo.com/chart/CARZ,59.33,+0.77,+1.31%,"1,464",+2.14%,+4.59%,+41.51%,+17.61%,+11.45%,0.70,0.70,2 stars
+RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,https://finance.yahoo.com/chart/RFEM,62.59,+0.46,+0.74%,"3,422",-1.11%,-3.90%,+20.78%,+0.72%,+20.04%,0.95,0.95,4 stars
+BSJV,Invesco BulletShares 2031 High Yield Corporate Bond ETF,https://finance.yahoo.com/chart/BSJV,26.26,+0.21,+0.80%,"22,848",--,--,--,--,--,0.42,0.42,0 star
+RNRG,Global X Renewable Energy Producers ETF,https://finance.yahoo.com/chart/RNRG,8.52,+0.05,+0.53%,"34,921",-1.85%,-14.03%,-12.33%,-12.27%,+36.53%,0.65,0.65,1 star
+NRES,Xtrackers RREEF Global Natural,https://finance.yahoo.com/chart/NRES,24.82,+0.21,+0.83%,323,--,--,--,--,--,0.45,0.45,0 star
+SQLV,Royce Quant Small-Cap Quality Value ETF,https://finance.yahoo.com/chart/SQLV,43.24,+0.07,+0.16%,481,+1.59%,+2.95%,+21.13%,+35.84%,+16.54%,0.60,0.60,4 stars
+XAIX,Xtrackers Artificial Intelligence and Big Data ETF,https://finance.yahoo.com/chart/XAIX,33.86,+0.18,+0.53%,"2,171",--,--,--,--,--,0.35,0.35,0 star
+BTFX,CoinShares Valkyrie Bitcoin Futures Leveraged Strategy ETF,https://finance.yahoo.com/chart/BTFX,58.32,-0.17,-0.29%,118,--,--,--,--,--,1.85,1.85,0 star
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,https://finance.yahoo.com/chart/PSCD,109.64,+1.30,+1.20%,"1,370",+0.65%,+1.01%,+33.11%,+37.51%,+17.34%,0.29,0.29,3 stars
+MCSE,Martin Currie Sustainable International Equity ETF,https://finance.yahoo.com/chart/MCSE,13.38,+0.17,+1.28%,"1,913",--,--,--,--,--,0.61,0.61,0 star
+AAPD,Direxion Daily AAPL Bear 1X Shares,https://finance.yahoo.com/chart/AAPD,16.12,+0.04,+0.25%,"47,927",--,--,--,--,--,1.07,1.07,0 star
+FTDS,First Trust Dividend Strength ETF,https://finance.yahoo.com/chart/FTDS,51.87,+0.46,+0.90%,50,+2.61%,-1.15%,+11.83%,+25.12%,+25.37%,0.99,0.99,3 stars
+COWS,Amplify Cash Flow Dividend Leaders ETF,https://finance.yahoo.com/chart/COWS,30.05,+0.26,+0.87%,36,--,--,--,--,--,0.39,0.39,0 star
+AAPB,GraniteShares 2x Long AAPL Daily ETF,https://finance.yahoo.com/chart/AAPB,30.34,0.00,0.00%,"21,054",--,--,--,--,--,1.65,1.65,0 star
+TAXE,Intermediate Municipal Income E,https://finance.yahoo.com/chart/TAXE,49.95,+0.19,+0.38%,324,--,--,--,--,--,0.24,0.24,0 star
+COPP,Sprott Copper Miners ETF,https://finance.yahoo.com/chart/COPP,21.33,+0.35,+1.67%,78,--,--,--,--,--,0.65,0.65,0 star
+NEWZ,Stocksnips AI-Powered Sentiment US ALL Cap ETF,https://finance.yahoo.com/chart/NEWZ,28.59,+0.33,+1.16%,707,--,--,--,--,--,0.75,0.75,0 star
+AADR,AdvisorShares Dorsey Wright ADR ETF,https://finance.yahoo.com/chart/AADR,72.22,+1.10,+1.54%,39,+4.64%,+11.03%,+18.40%,+6.37%,+35.89%,1.25,1.25,4 stars
+GQQQ,-,https://finance.yahoo.com/chart/GQQQ,25.43,-0.40,-1.56%,"10,414",--,--,--,--,--,0.35,0.35,0 star
+NVDD,Direxion Daily NVDA Bear 1X Shares,https://finance.yahoo.com/chart/NVDD,6.26,-0.06,-0.95%,"106,871",--,--,--,--,--,2.01,2.01,0 star
+FTXG,First Trust Nasdaq Food & Beverage ETF,https://finance.yahoo.com/chart/FTXG,22.11,-0.09,-0.40%,26,-4.05%,-11.80%,-6.18%,+12.38%,+24.10%,0.60,0.60,1 star
+FSCS,First Trust SMID Capital Streng,https://finance.yahoo.com/chart/FSCS,35.63,-0.27,-0.75%,"3,128",+1.39%,+1.06%,+16.43%,+26.58%,+27.75%,0.60,0.60,3 stars
+TSL,GraniteShares 1.25x Long Tsla Daily ETF,https://finance.yahoo.com/chart/TSL,19.00,-0.38,-1.96%,"17,979",--,--,--,--,--,1.98,1.98,0 star
+CA,Xtrackers California Municipal Bond ETF,https://finance.yahoo.com/chart/CA,24.74,+0.13,+0.53%,1,--,--,--,--,--,0.07,0.07,0 star
+DYNI,IDX Dynamic Innovation ETF,https://finance.yahoo.com/chart/DYNI,28.48,+0.63,+2.27%,"2,454",--,--,--,--,--,1.05,1.05,0 star
+VMOT,Alpha Architect Value Momentum Trend ETF,https://finance.yahoo.com/chart/VMOT,25.85,+0.01,+0.05%,101,+1.67%,-0.55%,-0.30%,+3.74%,+4.59%,1.60,1.60,2 stars
+WISE,Themes Generative Artificial Intelligence ETF,https://finance.yahoo.com/chart/WISE,36.46,+0.44,+1.22%,324,--,--,--,--,--,0.35,0.35,0 star
+BTGD,STKD Bitcoin & Gold ETF,https://finance.yahoo.com/chart/BTGD,27.48,+0.62,+2.31%,"35,706",--,--,--,--,--,1.00,1.00,0 star
+CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF,https://finance.yahoo.com/chart/CAFG,25.87,+0.31,+1.20%,57,--,--,--,--,--,0.59,0.59,0 star
+NERD,Roundhill Video Games ETF,https://finance.yahoo.com/chart/NERD,19.81,-0.14,-0.70%,"2,488",--,--,--,--,--,0.50,0.50,0 star
+SHRY,First Trust Bloomberg Shareholder Yield ETF,https://finance.yahoo.com/chart/SHRY,40.21,-0.05,-0.13%,355,+1.32%,-2.76%,+17.38%,+29.57%,+29.79%,0.60,0.60,4 stars
+BLLD,JPMorgan Sustainable Infrastructure ETF,https://finance.yahoo.com/chart/BLLD,45.70,+0.61,+1.35%,6,--,--,--,--,--,0.49,0.49,0 star
+WBND,Western Asset Total Return ETF,https://finance.yahoo.com/chart/WBND,19.58,+0.23,+1.18%,5,+0.38%,-2.87%,+5.88%,-2.98%,+13.19%,0.49,0.49,1 star
+QXQ,SGI Enhanced Nasdaq-100 ETF,https://finance.yahoo.com/chart/QXQ,27.22,+0.48,+1.79%,"114,401",--,--,--,--,--,0.98,0.98,0 star
+USOY,Defiance Oil Enhanced Options Income ETF,https://finance.yahoo.com/chart/USOY,14.64,-0.02,-0.14%,"1,671",--,--,--,--,--,1.22,1.22,0 star
+PSCF,Invesco S&P SmallCap Financials ETF,https://finance.yahoo.com/chart/PSCF,55.23,+0.97,+1.78%,2,-0.18%,-1.44%,+5.63%,+28.00%,+21.78%,0.29,0.29,1 star
+INRO,iShares U.S. Industry Rotation Active ETF,https://finance.yahoo.com/chart/INRO,28.19,+0.61,+2.20%,"1,548",--,--,--,--,--,0.42,0.42,0 star
+FEUZ,First Trust Eurozone AlphaDEX ETF,https://finance.yahoo.com/chart/FEUZ,41.29,+0.71,+1.74%,1,+1.93%,-3.36%,+15.76%,+12.89%,+21.22%,0.80,0.80,3 stars
+MSFL,GraniteShares 2x Long MSFT Daily ETF,https://finance.yahoo.com/chart/MSFL,23.94,+0.23,+0.97%,"101,083",--,--,--,--,--,3.55,3.55,0 star
+LIVR,Intelligent Livermore ETF,https://finance.yahoo.com/chart/LIVR,25.34,+0.50,+2.01%,"3,995",--,--,--,--,--,0.69,0.69,0 star
+QQQT,Defiance Nasdaq 100 Income Targ,https://finance.yahoo.com/chart/QQQT,19.10,+0.13,+0.69%,192,--,--,--,--,--,0.92,0.92,0 star
+MOOD,Relative Sentiment Tactical Allocation ETF,https://finance.yahoo.com/chart/MOOD,30.22,+0.44,+1.49%,"6,363",--,--,--,--,--,0.72,0.72,0 star
+QRMI,Global X NASDAQ 100 Risk Managed Income ETF,https://finance.yahoo.com/chart/QRMI,17.61,+0.30,+1.73%,146,--,--,--,--,--,0.61,0.61,0 star
+PSCM,Invesco S&P SmallCap Materials ETF,https://finance.yahoo.com/chart/PSCM,74.07,-0.26,-0.35%,479,+0.85%,-5.20%,+19.76%,+18.26%,+20.50%,0.29,0.29,4 stars
+SPAQ,Horizon Kinetics SPAC Active ETF,https://finance.yahoo.com/chart/SPAQ,98.47,+0.04,+0.04%,3,--,--,--,--,--,0.85,0.85,0 star
+RNEM,First Trust Emerging Markets Equity Select ETF,https://finance.yahoo.com/chart/RNEM,48.95,+0.60,+1.24%,5,-0.61%,-6.44%,+22.55%,+5.52%,+13.22%,0.75,0.75,4 stars
+MQQQ,Tradr 2X Long Triple Q Monthly,https://finance.yahoo.com/chart/MQQQ,28.53,+1.20,+4.40%,"1,301",--,--,--,--,--,1.98,1.98,0 star
+UTHY,US Treasury 30 Year Bond ETF,https://finance.yahoo.com/chart/UTHY,41.21,-0.02,-0.05%,"1,703",--,--,--,--,--,0.15,0.15,0 star
+PSTR,PeakShares Sector Rotation ETF,https://finance.yahoo.com/chart/PSTR,27.78,+0.29,+1.06%,"2,961",--,--,--,--,--,1.27,1.27,0 star
+MEMS,Matthews Emerging Markets Discovery Active ETF,https://finance.yahoo.com/chart/MEMS,22.78,+0.24,+1.04%,"1,647",--,--,--,--,--,0.99,0.99,0 star
+STSB,Stance Sustainable Beta ETF,https://finance.yahoo.com/chart/STSB,24.66,+0.29,+1.19%,"21,479",--,--,--,--,--,0.49,0.49,0 star
+TTEQ,-,https://finance.yahoo.com/chart/TTEQ,26.11,-0.41,-1.54%,"38,403",--,--,--,--,--,0.63,0.63,0 star
+JMID,Janus Henderson Mid Cap Growth,https://finance.yahoo.com/chart/JMID,28.67,+0.59,+2.09%,"19,762",--,--,--,--,--,0.30,0.30,0 star
+PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,https://finance.yahoo.com/chart/PSCU,58.81,+0.97,+1.68%,"1,203",-0.82%,-1.86%,+2.21%,+29.93%,+10.00%,0.29,0.29,2 stars
+CEFA,Global X S&P Catholic Values Developed ex-U.S. ETF,https://finance.yahoo.com/chart/CEFA,30.21,+0.32,+1.08%,1,--,--,--,--,--,0.35,0.35,0 star
+BKIV,BNY Mellon Innovators ETF,https://finance.yahoo.com/chart/BKIV,36.34,+0.90,+2.55%,3,--,--,--,--,--,0.50,0.50,0 star
+CCSB,Carbon Collective Short Duration Green Bond ETF,https://finance.yahoo.com/chart/CCSB,20.24,+0.06,+0.28%,10,--,--,--,--,--,0.51,0.51,0 star
+MEDX,Horizon Kinetics Medical ETF,https://finance.yahoo.com/chart/MEDX,25.90,+0.12,+0.46%,239,--,--,--,--,--,0.85,0.85,0 star
+QNXT,-,https://finance.yahoo.com/chart/QNXT,24.38,-0.35,-1.42%,"1,111",--,--,--,--,--,0.20,0.20,0 star
+FTXH,First Trust Nasdaq Pharmaceuticals ETF,https://finance.yahoo.com/chart/FTXH,26.99,+0.11,+0.41%,19,+0.09%,-6.15%,-1.41%,+6.11%,+22.35%,0.60,0.60,3 stars
+MFLX,First Trust Flexible Municipal High Income ETF,https://finance.yahoo.com/chart/MFLX,16.84,+0.05,+0.32%,"2,199",-1.15%,-2.31%,+8.00%,+8.11%,+16.65%,0.93,0.93,3 stars
+QQQP,Tradr 2X Long Triple Q Quarterl,https://finance.yahoo.com/chart/QQQP,26.46,-0.84,-3.08%,"1,233",--,--,--,--,--,1.98,1.98,0 star
+GXTG,Global X Thematic Growth ETF,https://finance.yahoo.com/chart/GXTG,23.83,+0.46,+1.97%,158,--,--,--,--,--,0.50,0.50,0 star
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,https://finance.yahoo.com/chart/FPA,28.32,+0.25,+0.89%,1,+3.33%,-4.14%,+10.72%,+2.77%,+7.40%,0.80,0.80,3 stars
+BKWO,BNY Mellon Women's Opportunities ETF,https://finance.yahoo.com/chart/BKWO,35.16,+0.58,+1.68%,1,--,--,--,--,--,0.50,0.50,0 star
+TXSS,Texas Capital Texas Small Cap Equity Index ETF,https://finance.yahoo.com/chart/TXSS,28.56,+0.50,+1.79%,1,--,--,--,--,--,0.49,0.49,0 star
+WEEI,Westwood Salient Enhanced Energy Income ETF,https://finance.yahoo.com/chart/WEEI,22.92,+0.23,+1.01%,"1,990",--,--,--,--,--,0.85,0.85,0 star
+DWSH,AdvisorShares Dorsey Wright Short ETF,https://finance.yahoo.com/chart/DWSH,6.90,-0.08,-1.15%,2,-1.85%,+1.30%,-22.10%,-25.67%,-25.26%,4.12,4.12,0 star
+UTWY,US Treasury 20 Year Bond ETF,https://finance.yahoo.com/chart/UTWY,43.04,+0.64,+1.51%,"2,610",--,--,--,--,--,0.15,0.15,0 star
+FLN,First Trust Latin America AlphaDEX Fund,https://finance.yahoo.com/chart/FLN,15.63,-0.17,-1.06%,402,+4.02%,-8.88%,+29.63%,-6.67%,+26.26%,0.80,0.80,3 stars
+VOLT,Tema Electrification ETF,https://finance.yahoo.com/chart/VOLT,23.84,-0.09,-0.38%,"9,231",--,--,--,--,--,0.75,0.75,0 star
+EQRR,ProShares Equities for Rising Rates ETF,https://finance.yahoo.com/chart/EQRR,59.21,+0.44,+0.75%,4,+4.36%,+1.05%,+9.08%,+35.11%,+19.40%,0.35,0.35,3 stars
+COPJ,Sprott Junior Copper Miners ETF,https://finance.yahoo.com/chart/COPJ,19.05,+0.42,+2.28%,14,--,--,--,--,--,0.78,0.78,0 star
+BSMY,Invesco BulletShares 2034 Munic,https://finance.yahoo.com/chart/BSMY,24.34,+0.16,+0.66%,"9,468",--,--,--,--,--,0.18,0.18,0 star
+WINC,Western Asset Short Duration Income ETF,https://finance.yahoo.com/chart/WINC,24.01,+0.11,+0.48%,15,+0.29%,+0.70%,+6.62%,+0.44%,0.00%,0.29,0.29,3 stars
+QQQA,ProShares Nasdaq-100 Dorsey Wright Momentum ETF,https://finance.yahoo.com/chart/QQQA,47.53,+1.36,+2.94%,30,--,--,--,--,--,0.58,0.58,0 star
+INDH,WisdomTree India Hedged Equity Fund ETF,https://finance.yahoo.com/chart/INDH,41.19,+0.40,+0.99%,14,--,--,--,--,--,0.63,0.63,0 star
+QOWZ,Invesco Nasdaq Free Cash Flow Achievers ETF,https://finance.yahoo.com/chart/QOWZ,34.30,+0.24,+0.69%,180,--,--,--,--,--,0.39,0.39,0 star
+AGIX,KraneShares Artificial Intellig,https://finance.yahoo.com/chart/AGIX,29.08,+0.74,+2.61%,10,--,--,--,--,--,1.00,1.00,0 star
+NFXL,Direxion Daily NFLX Bull 2X Sha,https://finance.yahoo.com/chart/NFXL,32.64,-2.98,-8.37%,"98,028",--,--,--,--,--,0.99,0.99,0 star
+ABCS,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,https://finance.yahoo.com/chart/ABCS,29.17,+0.32,+1.12%,"1,201",--,--,--,--,--,0.42,0.42,0 star
+BELT,iShares Long-Term U.S. Equity Active ETF,https://finance.yahoo.com/chart/BELT,30.57,+0.75,+2.51%,839,--,--,--,--,--,0.75,0.75,0 star
+KQQQ,Kurv Technology Titans Select E,https://finance.yahoo.com/chart/KQQQ,27.27,+0.82,+3.12%,123,--,--,--,--,--,1.29,1.29,0 star
+IBOT,Vaneck Robotics ETF,https://finance.yahoo.com/chart/IBOT,41.89,+0.59,+1.44%,47,--,--,--,--,--,0.47,0.47,0 star
+CNCR,Range Cancer Therapeutics Index ETF,https://finance.yahoo.com/chart/CNCR,11.68,+0.26,+2.32%,7,-5.12%,-22.44%,-1.98%,-19.41%,+24.07%,0.79,0.79,1 star
+MYCF,SPDR SSGA My2026 Corporate Bond,https://finance.yahoo.com/chart/MYCF,24.92,-0.01,-0.06%,813,--,--,--,--,--,0.15,0.15,0 star
+EMEQ,Macquarie Focused Emerging Mark,https://finance.yahoo.com/chart/EMEQ,24.98,+0.49,+1.98%,"4,419",--,--,--,--,--,0.85,0.85,0 star
+AQWA,Global X Clean Water ETF,https://finance.yahoo.com/chart/AQWA,16.88,+0.27,+1.66%,1,--,--,--,--,--,0.50,0.50,0 star
+SPCX,SPAC and New Issue ETF,https://finance.yahoo.com/chart/SPCX,23.27,-0.22,-0.92%,184,--,--,--,--,--,2.57,2.57,0 star
+QHDG,Innovator Hedged Nasdaq-100 ETF,https://finance.yahoo.com/chart/QHDG,26.82,+0.38,+1.44%,705,--,--,--,--,--,0.79,0.79,0 star
+SPYQ,Tradr 2X Long SPY Quarterly ETF,https://finance.yahoo.com/chart/SPYQ,25.17,-0.75,-2.89%,"4,038",--,--,--,--,--,1.98,1.98,0 star
+ERET,Ishares Environmentally Aware Real Estate ETF,https://finance.yahoo.com/chart/ERET,24.85,-0.06,-0.24%,688,--,--,--,--,--,0.30,0.30,0 star
+QQQS,Invesco NASDAQ Future Gen 200 ETF,https://finance.yahoo.com/chart/QQQS,28.83,+0.79,+2.82%,37,--,--,--,--,--,0.20,0.20,0 star
+MYCG,SPDR SSGA My2027 Corporate Bond,https://finance.yahoo.com/chart/MYCG,24.67,-0.03,-0.12%,"13,708",--,--,--,--,--,0.15,0.15,0 star
+NIKL,Sprott Nickel Miners ETF,https://finance.yahoo.com/chart/NIKL,10.54,-0.05,-0.47%,"1,012",--,--,--,--,--,0.75,0.75,0 star
+TMET,iShares Transition-Enabling Met,https://finance.yahoo.com/chart/TMET,22.57,+0.33,+1.46%,22,--,--,--,--,--,0.48,0.48,0 star
+LRND,IQ U.S. Large Cap R&D Leaders ETF,https://finance.yahoo.com/chart/LRND,34.47,+0.66,+1.96%,4,--,--,--,--,--,0.15,0.15,0 star
+HCOW,Amplify Cash Flow High Income ETF,https://finance.yahoo.com/chart/HCOW,25.98,+0.24,+0.95%,2,--,--,--,--,--,0.65,0.65,0 star
+EMIF,iShares Emerging Markets Infrastructure ETF,https://finance.yahoo.com/chart/EMIF,21.00,+0.32,+1.53%,1,+0.89%,-4.41%,+7.82%,+2.45%,+15.81%,0.60,0.60,1 star
+DECO,SPDR Galaxy Digital Asset Ecosy,https://finance.yahoo.com/chart/DECO,33.19,-1.42,-4.10%,117,--,--,--,--,--,0.65,0.65,0 star
+ESMV,iShares ESG MSCI USA Min Vol Factor ETF,https://finance.yahoo.com/chart/ESMV,28.02,+0.23,+0.82%,113,--,--,--,--,--,0.18,0.18,0 star
+EFAS,Global X MSCI SuperDividend EAFE ETF,https://finance.yahoo.com/chart/EFAS,13.98,-0.12,-0.85%,428,+1.15%,-4.24%,+14.65%,+11.91%,+14.83%,0.56,0.56,2 stars
+MKAM,MKAM ETF,https://finance.yahoo.com/chart/MKAM,29.39,+0.29,+0.98%,103,--,--,--,--,--,0.97,0.97,0 star
+YQQQ,YieldMax Short N100 Option Inco,https://finance.yahoo.com/chart/YQQQ,16.73,-0.08,-0.49%,"1,378",--,--,--,--,--,0.99,0.99,0 star
+FGM,First Trust Germany AlphaDEX Fund,https://finance.yahoo.com/chart/FGM,39.24,+0.67,+1.74%,905,+2.19%,+0.20%,+12.90%,+5.73%,+21.11%,0.80,0.80,0 star
+JDOC,Jpmorgan Healthcare Leaders ETF,https://finance.yahoo.com/chart/JDOC,52.01,+0.08,+0.15%,304,--,--,--,--,--,0.65,0.65,0 star
+QSML,Wisdomtree U.S. Smallcap Quality Growth Fund,https://finance.yahoo.com/chart/QSML,27.98,+0.42,+1.53%,228,--,--,--,--,--,0.38,0.38,0 star
+ASET,FlexShares Real Assets Allocation Index Fund,https://finance.yahoo.com/chart/ASET,29.71,+0.24,+0.80%,133,-1.08%,-7.59%,+5.50%,+18.72%,+23.56%,0.97,0.97,1 star
+EVMT,Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF,https://finance.yahoo.com/chart/EVMT,15.00,+0.06,+0.44%,446,--,--,--,--,--,0.73,0.73,0 star
+UTRE,US Treasury 3 Year Note ETF,https://finance.yahoo.com/chart/UTRE,48.87,+0.19,+0.38%,48,--,--,--,--,--,0.15,0.15,0 star
+XMAG,Defiance Large Cap ex-Mag 7 ETF,https://finance.yahoo.com/chart/XMAG,19.46,-0.24,-1.24%,"35,239",--,--,--,--,--,0.35,0.35,0 star
+BEEZ,Honeytree U.S. Equity ETF,https://finance.yahoo.com/chart/BEEZ,31.68,+0.27,+0.86%,90,--,--,--,--,--,0.64,0.64,0 star
+TCHI,iShares MSCI China Multisector Tech ETF,https://finance.yahoo.com/chart/TCHI,17.67,+0.11,+0.61%,8,--,--,--,--,--,0.59,0.59,0 star
+TEKX,SPDR Galaxy Transformative Tech,https://finance.yahoo.com/chart/TEKX,30.08,+0.06,+0.18%,332,--,--,--,--,--,0.65,0.65,0 star
+AVL,Direxion Daily AVGO Bull 2X Sha,https://finance.yahoo.com/chart/AVL,32.37,-1.51,-4.46%,"257,374",--,--,--,--,--,0.99,0.99,0 star
+CHPS,Xtrackers Semiconductor Select,https://finance.yahoo.com/chart/CHPS,32.07,+0.57,+1.81%,820,--,--,--,--,--,0.15,0.15,0 star
+QSIX,Pacer Metaurus Nasdaq 100 Divid,https://finance.yahoo.com/chart/QSIX,32.84,-0.45,-1.34%,"1,277",--,--,--,--,--,0.60,0.60,0 star
+MCDS,JPMorgan Fundamental Data Scien,https://finance.yahoo.com/chart/MCDS,56.86,+0.71,+1.26%,3,--,--,--,--,--,0.35,0.35,0 star
+SCDS,JPMorgan Fundamental Data Scien,https://finance.yahoo.com/chart/SCDS,56.06,+1.17,+2.14%,"1,000",--,--,--,--,--,0.40,0.40,0 star
+PSWD,Xtrackers Cybersecurity Select,https://finance.yahoo.com/chart/PSWD,32.68,+0.39,+1.20%,1,--,--,--,--,--,0.20,0.20,0 star
+BGRO,iShares Large Cap Growth Active ETF,https://finance.yahoo.com/chart/BGRO,34.37,+0.79,+2.35%,3,--,--,--,--,--,0.55,0.55,0 star
+LITP,Sprott Lithium Miners ETF,https://finance.yahoo.com/chart/LITP,7.31,+0.28,+3.98%,19,--,--,--,--,--,0.65,0.65,0 star
+MYMJ,SPDR SSGA My2030 Municipal Bond,https://finance.yahoo.com/chart/MYMJ,24.49,-0.10,-0.43%,"11,341",--,--,--,--,--,0.20,0.20,0 star
+MYCH,SPDR SSGA My2028 Corporate Bond,https://finance.yahoo.com/chart/MYCH,24.42,-0.09,-0.37%,"6,668",--,--,--,--,--,0.15,0.15,0 star
+MYCI,SPDR SSGA My2029 Corporate Bond,https://finance.yahoo.com/chart/MYCI,24.19,-0.13,-0.53%,"6,597",--,--,--,--,--,0.15,0.15,0 star
+MYCJ,SPDR SSGA My2030 Corporate Bond,https://finance.yahoo.com/chart/MYCJ,23.99,-0.15,-0.62%,"6,971",--,--,--,--,--,0.15,0.15,0 star
+IBAT,iShares Energy Storage & Materials ETF,https://finance.yahoo.com/chart/IBAT,21.99,+0.01,+0.07%,1,--,--,--,--,--,0.47,0.47,0 star
+MUU,Direxion Daily MU Bull 2X Share,https://finance.yahoo.com/chart/MUU,21.00,-0.09,-0.43%,"264,294",--,--,--,--,--,0.99,0.99,0 star
+FDTS,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,https://finance.yahoo.com/chart/FDTS,39.91,+0.53,+1.36%,2,-1.43%,-5.35%,+11.18%,+11.12%,+19.18%,0.80,0.80,3 stars
+RFEU,First Trust RiverFront Dynamic Europe ETF,https://finance.yahoo.com/chart/RFEU,59.57,+0.60,+1.02%,1,-0.31%,-7.11%,+15.68%,+22.01%,+23.32%,0.83,0.83,2 stars
+QQJG,Invesco ESG NASDAQ Next Gen 100 ETF,https://finance.yahoo.com/chart/QQJG,24.10,+0.28,+1.19%,28,--,--,--,--,--,0.20,0.20,0 star
+RAYS,Global X Solar ETF,https://finance.yahoo.com/chart/RAYS,9.10,+0.01,+0.11%,"16,323",--,--,--,--,--,0.50,0.50,0 star
+IWTR,iShares MSCI Water Management Multisector ETF,https://finance.yahoo.com/chart/IWTR,29.55,+0.39,+1.32%,2,--,--,--,--,--,0.47,0.47,0 star
+NSI,National Security Emerging Markets Index ETF,https://finance.yahoo.com/chart/NSI,25.36,+0.40,+1.60%,324,--,--,--,--,--,1.00,1.00,0 star
+DIVD,Altrius Global Dividend ETF,https://finance.yahoo.com/chart/DIVD,32.12,+0.28,+0.87%,1,--,--,--,--,--,0.49,0.49,0 star
+FTAG,First Trust Indxx Global Agriculture ETF,https://finance.yahoo.com/chart/FTAG,23.92,+0.12,+0.53%,1,+3.02%,-3.88%,-7.49%,+17.96%,+9.29%,0.70,0.70,1 star
+USSH,WisdomTree 1-3 Year Laddered Tr,https://finance.yahoo.com/chart/USSH,50.27,+0.11,+0.22%,30,--,--,--,--,--,0.15,0.15,0 star
+CRWL,GraniteShares 2x Long CRWD Dail,https://finance.yahoo.com/chart/CRWL,24.40,-1.50,-5.79%,"45,826",--,--,--,--,--,2.30,2.30,0 star
+MSFD,Direxion Daily MSFT Bear 1X Shares,https://finance.yahoo.com/chart/MSFD,13.50,-0.07,-0.52%,207,--,--,--,--,--,1.29,1.29,0 star
+NFXS,Direxion Daily NFLX Bear 1X Sha,https://finance.yahoo.com/chart/NFXS,20.96,+0.91,+4.54%,"123,505",--,--,--,--,--,0.99,0.99,0 star
+ISHP,First Trust S-Network Global E-Commerce ETF,https://finance.yahoo.com/chart/ISHP,35.64,+0.70,+2.02%,11,-3.38%,+2.20%,+24.35%,+28.79%,+20.23%,0.60,0.60,2 stars
+USVN,US Treasury 7 Year Note ETF,https://finance.yahoo.com/chart/USVN,46.81,+0.42,+0.91%,1,--,--,--,--,--,0.15,0.15,0 star
+MYMF,SPDR SSGA My2026 Municipal Bond,https://finance.yahoo.com/chart/MYMF,24.88,-0.03,-0.10%,400,--,--,--,--,--,0.20,0.20,0 star
+BSJW,Invesco BulletShares 2032 High,https://finance.yahoo.com/chart/BSJW,25.20,-0.01,-0.06%,200,--,--,--,--,--,0.42,0.42,0 star
+FBZ,First Trust Brazil AlphaDEX Fund,https://finance.yahoo.com/chart/FBZ,9.35,+0.30,+3.37%,324,+3.48%,-12.75%,+28.15%,-9.04%,+41.62%,0.80,0.80,3 stars
+MYMG,-,https://finance.yahoo.com/chart/MYMG,24.73,-0.05,-0.18%,400,--,--,--,--,--,0.20,0.20,0 star
+MYMI,SPDR SSGA My2029 Municipal Bond,https://finance.yahoo.com/chart/MYMI,24.45,-0.08,-0.33%,"10,247",--,--,--,--,--,0.20,0.20,0 star
+METD,Direxion Daily META Bear 1X Sha,https://finance.yahoo.com/chart/METD,18.75,-0.75,-3.85%,"4,208",--,--,--,--,--,1.09,1.09,0 star
+MYCK,SPDR SSGA My2031 Corporate Bond,https://finance.yahoo.com/chart/MYCK,23.88,-0.17,-0.71%,"14,376",--,--,--,--,--,0.15,0.15,0 star
+MYCM,SPDR SSGA My2033 Corporate Bond,https://finance.yahoo.com/chart/MYCM,23.66,-0.15,-0.63%,"23,929",--,--,--,--,--,0.15,0.15,0 star
+MYCL,SPDR SSGA My2032 Corporate Bond,https://finance.yahoo.com/chart/MYCL,23.71,-0.15,-0.64%,"23,681",--,--,--,--,--,0.15,0.15,0 star
+MYCN,SPDR SSGA My2034 Corporate Bond,https://finance.yahoo.com/chart/MYCN,23.56,-0.16,-0.67%,"20,856",--,--,--,--,--,0.15,0.15,0 star
+AMZD,Direxion Daily AMZN Bear 1X Shares,https://finance.yahoo.com/chart/AMZD,11.26,-0.06,-0.57%,563,--,--,--,--,--,1.37,1.37,0 star
+XCNY,-,https://finance.yahoo.com/chart/XCNY,23.59,-0.41,-1.69%,367,--,--,--,--,--,0.15,0.15,0 star
+EFRA,iShares Environmental Infrastructure and Industrials ETF,https://finance.yahoo.com/chart/EFRA,30.49,+0.46,+1.54%,"2,308",--,--,--,--,--,0.47,0.47,0 star
+DMAT,Global X Disruptive Materials ETF,https://finance.yahoo.com/chart/DMAT,14.83,0.00,0.00%,111,--,--,--,--,--,0.59,0.59,0 star
+DUKH,Ocean Park High Income ETF,https://finance.yahoo.com/chart/DUKH,25.15,+0.12,+0.48%,"4,236",--,--,--,--,--,1.26,1.26,0 star
+CONI,GraniteShares 1x Short COIN Dai,https://finance.yahoo.com/chart/CONI,10.66,-0.68,-6.01%,"143,704",--,--,--,--,--,1.43,1.43,0 star
+SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF,https://finance.yahoo.com/chart/SKRE,12.41,+0.11,+0.92%,"11,584",--,--,--,--,--,0.75,0.75,0 star
+KROP,Global X AgTech & Food Innovation ETF,https://finance.yahoo.com/chart/KROP,9.95,+0.22,+2.26%,3,--,--,--,--,--,0.51,0.51,0 star
+UCYB,ProShares Ultra Nasdaq Cybersecurity,https://finance.yahoo.com/chart/UCYB,49.41,+1.59,+3.34%,384,--,--,--,--,--,3.97,3.97,0 star
+MUD,Direxion Daily MU Bear 1X Share,https://finance.yahoo.com/chart/MUD,22.83,-1.46,-6.00%,"6,217",--,--,--,--,--,0.99,0.99,0 star
+QQQW,Tradr 2X Long Triple Q Weekly E,https://finance.yahoo.com/chart/QQQW,27.24,-0.92,-3.27%,620,--,--,--,--,--,1.98,1.98,0 star
+TSMZ,Direxion Daily TSM Bear 1X Shar,https://finance.yahoo.com/chart/TSMZ,20.39,-0.10,-0.50%,"93,310",--,--,--,--,--,0.99,0.99,0 star
+UPGR,Xtrackers US Green Infrastructu,https://finance.yahoo.com/chart/UPGR,18.55,+0.26,+1.40%,160,--,--,--,--,--,0.35,0.35,0 star
+ILIT,Ishares Lithium Miners And Producers ETF,https://finance.yahoo.com/chart/ILIT,9.46,-0.02,-0.21%,"1,021",--,--,--,--,--,0.47,0.47,0 star
+IVEG,iShares Emergent Food and AgTech Multisector ETF,https://finance.yahoo.com/chart/IVEG,20.35,+0.27,+1.34%,61,--,--,--,--,--,0.47,0.47,0 star
+USIN,WisdomTree 7-10 Year Laddered Treasury Fund,https://finance.yahoo.com/chart/USIN,48.54,+0.48,+0.99%,1,--,--,--,--,--,0.15,0.15,0 star
+FPXE,First Trust IPOX Europe Equity Opportunities ETF,https://finance.yahoo.com/chart/FPXE,26.12,+0.55,+2.15%,1,+2.20%,-0.85%,+14.23%,+9.60%,+32.22%,0.70,0.70,2 stars
+ARVR,First Trust Indxx Metaverse ETF,https://finance.yahoo.com/chart/ARVR,38.48,+0.92,+2.45%,200,--,--,--,--,--,0.70,0.70,0 star
+BIS,ProShares UltraShort Nasdaq Biotechnology,https://finance.yahoo.com/chart/BIS,17.91,-0.17,-0.97%,204,-0.60%,+22.84%,-6.34%,-14.79%,-40.79%,2.42,2.42,0 star
+REAI,Intelligent Real Estate ETF,https://finance.yahoo.com/chart/REAI,20.53,+0.18,+0.90%,1,--,--,--,--,--,0.59,0.59,0 star
+GGLS,Direxion Daily GOOGL Bear 1X Shares,https://finance.yahoo.com/chart/GGLS,11.80,-0.38,-3.12%,"8,512",--,--,--,--,--,1.49,1.49,0 star
+DCAP,Unity Wealth Partners Dynamic C,https://finance.yahoo.com/chart/DCAP,20.47,-0.16,-0.78%,120,--,--,--,--,--,0.96,0.96,0 star
+BRKD,Direxion Daily BRKB Bear 1X Sha,https://finance.yahoo.com/chart/BRKD,25.37,-0.49,-1.91%,52,--,--,--,--,--,0.99,0.99,0 star
+QYLE,Global X NASDAQ 100 ESG Covered Call ETF,https://finance.yahoo.com/chart/QYLE,26.83,+0.54,+2.04%,60,--,--,--,--,--,0.61,0.61,0 star
+ETEC,iShares Breakthrough Environmental Solutions ETF,https://finance.yahoo.com/chart/ETEC,19.28,+0.38,+2.01%,1,--,--,--,--,--,0.47,0.47,0 star
+AMDS,Graniteshares 1x Short AMD Daily ETF,https://finance.yahoo.com/chart/AMDS,15.93,-0.55,-3.34%,"1,553",--,--,--,--,--,6.04,6.04,0 star
+GSIB,Themes Global Systemically Important Banks ETF,https://finance.yahoo.com/chart/GSIB,34.50,+1.10,+3.30%,1,--,--,--,--,--,0.35,0.35,0 star
+AVS,Direxion Daily AVGO Bear 1X Sha,https://finance.yahoo.com/chart/AVS,18.67,+0.43,+2.38%,"47,821",--,--,--,--,--,0.99,0.99,0 star
+QTR,Global X NASDAQ 100 Tail Risk ETF,https://finance.yahoo.com/chart/QTR,31.64,+0.55,+1.77%,"1,647",--,--,--,--,--,0.25,0.25,0 star
+CANQ,Calamos Alternative Nasdaq & Bond ETF,https://finance.yahoo.com/chart/CANQ,28.12,+0.54,+1.96%,"1,325",--,--,--,--,--,0.95,0.95,0 star
+SMCF,Themes US Small Cap Cash Flow Champions ETF,https://finance.yahoo.com/chart/SMCF,32.81,+0.72,+2.24%,"10,043",--,--,--,--,--,0.29,0.29,0 star
+TLTQ,Tradr 1.75X Long TLT Quarterly,https://finance.yahoo.com/chart/TLTQ,19.52,-0.25,-1.27%,"3,797",--,--,--,--,--,1.98,1.98,0 star
+TLTM,Tradr 2X Long TLT Monthly ETF,https://finance.yahoo.com/chart/TLTM,18.85,-0.27,-1.42%,"13,318",--,--,--,--,--,1.98,1.98,0 star
+SKYU,ProShares Ultra Cloud Computing,https://finance.yahoo.com/chart/SKYU,36.85,+1.54,+4.35%,"8,435",--,--,--,--,--,4.91,4.91,0 star
+QQQG,Pacer Nasdaq 100 Top 50 Cash Co,https://finance.yahoo.com/chart/QQQG,21.40,+0.15,+0.69%,102,--,--,--,--,--,0.49,0.49,0 star
+USAF,Atlas America Fund,https://finance.yahoo.com/chart/USAF,25.22,-0.01,-0.02%,"11,840",--,--,--,--,--,0.86,0.86,0 star
+AUMI,Themes Gold Miners ETF,https://finance.yahoo.com/chart/AUMI,37.80,0.00,0.00%,1,--,--,--,--,--,0.35,0.35,0 star
+IBGK,iShares iBonds Dec 2054 Term Tr,https://finance.yahoo.com/chart/IBGK,23.56,+0.40,+1.73%,23,--,--,--,--,--,0.07,0.07,0 star
+USCF,Themes US Cash Flow Champions ETF,https://finance.yahoo.com/chart/USCF,31.13,+0.54,+1.76%,143,--,--,--,--,--,0.29,0.29,0 star
+WNDY,Global X Wind Energy ETF,https://finance.yahoo.com/chart/WNDY,10.21,+0.14,+1.34%,2,--,--,--,--,--,0.51,0.51,0 star
+TSLW,Tradr 1.5X Long TSLA Weekly ETF,https://finance.yahoo.com/chart/TSLW,57.57,-0.06,-0.10%,"1,781",--,--,--,--,--,1.98,1.98,0 star
+RNEW,VanEck Green Infrastructure ETF,https://finance.yahoo.com/chart/RNEW,25.89,+0.41,+1.59%,1,--,--,--,--,--,0.46,0.46,0 star
+SPYM,Tradr 2X Long SPY Monthly ETF,https://finance.yahoo.com/chart/SPYM,25.97,-0.78,-2.91%,"1,594",--,--,--,--,--,1.98,1.98,0 star
+SOXM,Tradr 2X Long SOXX Monthly ETF,https://finance.yahoo.com/chart/SOXM,21.67,-1.06,-4.66%,"3,306",--,--,--,--,--,1.98,1.98,0 star
+SPAM,Themes Cybersecurity ETF,https://finance.yahoo.com/chart/SPAM,30.04,+0.15,+0.52%,167,--,--,--,--,--,0.35,0.35,0 star
+QCLR,Global X NASDAQ 100 Collar 95-110 ETF,https://finance.yahoo.com/chart/QCLR,29.41,+0.40,+1.40%,19,--,--,--,--,--,0.26,0.26,0 star
+PTEC,Global X PropTech ETF,https://finance.yahoo.com/chart/PTEC,33.35,+0.83,+2.55%,1,--,--,--,--,--,0.51,0.51,0 star
+NATO,THEMES TRANSATLANTIC DEFENSE ET,https://finance.yahoo.com/chart/NATO,25.49,-0.17,-0.68%,"1,176",--,--,--,--,--,0.35,0.35,0 star
+CLOD,Themes Cloud Computing ETF,https://finance.yahoo.com/chart/CLOD,31.10,+0.61,+2.00%,2,--,--,--,--,--,0.35,0.35,0 star
+CZAR,Themes Natural Monopoly ETF,https://finance.yahoo.com/chart/CZAR,28.68,+0.26,+0.91%,3,--,--,--,--,--,0.35,0.35,0 star
+QMID,Wisdomtree U.S. Midcap Quality Growth Fund,https://finance.yahoo.com/chart/QMID,27.90,+0.41,+1.49%,155,--,--,--,--,--,0.38,0.38,0 star
+HWAY,Themes US Infrastructure ETF,https://finance.yahoo.com/chart/HWAY,27.07,+0.42,+1.58%,28,--,--,--,--,--,0.29,0.29,0 star
+DUKX,Ocean Park International ETF,https://finance.yahoo.com/chart/DUKX,23.53,+0.01,+0.04%,1,--,--,--,--,--,1.18,1.18,0 star
+USRD,Themes US R&D Champions ETF,https://finance.yahoo.com/chart/USRD,30.23,+0.46,+1.55%,109,--,--,--,--,--,0.29,0.29,0 star
+ODDS,Pacer BlueStar Digital Entertainment ETF,https://finance.yahoo.com/chart/ODDS,25.48,+0.35,+1.40%,1,--,--,--,--,--,0.63,0.63,0 star
+NDAA,-,https://finance.yahoo.com/chart/NDAA,19.58,-0.10,-0.51%,959,--,--,--,--,--,0.80,0.80,0 star
+NVDW,Tradr 1.75X Long NVDA Weekly ET,https://finance.yahoo.com/chart/NVDW,28.48,+1.08,+3.96%,"2,130",--,--,--,--,--,1.98,1.98,0 star
+SPYB,Tradr 2X Long SPY Weekly ETF,https://finance.yahoo.com/chart/SPYB,25.85,-0.79,-2.96%,"1,656",--,--,--,--,--,1.98,1.98,0 star
+HFSP,TradersAI Large Cap Equity & Ca,https://finance.yahoo.com/chart/HFSP,19.04,-0.98,-4.92%,"2,712",--,--,--,--,--,1.25,1.25,0 star
+AIRL,Themes Airlines ETF,https://finance.yahoo.com/chart/AIRL,29.88,-0.13,-0.42%,243,--,--,--,--,--,0.35,0.35,0 star
+BULD,Pacer BlueStar Engineering the Future ETF,https://finance.yahoo.com/chart/BULD,21.73,+0.27,+1.26%,3,--,--,--,--,--,0.60,0.60,0 star
+OCTA,Octane All-Cap Value Energy ETF,https://finance.yahoo.com/chart/OCTA,17.94,+0.26,+1.45%,641,--,--,--,--,--,0.60,0.60,0 star
+SOXW,Tradr 2X Long SOXX Weekly ETF,https://finance.yahoo.com/chart/SOXW,20.82,-1.00,-4.59%,625,--,--,--,--,--,1.98,1.98,0 star
+PATN,Pacer Nasdaq International Patent Leaders ETF,https://finance.yahoo.com/chart/PATN,19.71,+0.13,+0.66%,39,--,--,--,--,--,0.65,0.65,0 star
+TSMU,-,https://finance.yahoo.com/chart/TSMU,27.58,+0.32,+1.17%,"99,725",--,--,--,--,--,2.30,2.30,0 star
+FINE,Themes European Luxury ETF,https://finance.yahoo.com/chart/FINE,21.72,+0.09,+0.44%,20,--,--,--,--,--,0.35,0.35,0 star
+BOTT,Themes Robotics & Automation ETF,https://finance.yahoo.com/chart/BOTT,28.33,+0.60,+2.17%,100,--,--,--,--,--,0.35,0.35,0 star
+SJCP,-,https://finance.yahoo.com/chart/SJCP,24.75,-0.02,-0.07%,301,--,--,--,--,--,0.65,0.65,0 star
+AGMI,Themes Silver Miners ETF,https://finance.yahoo.com/chart/AGMI,26.12,+0.17,+0.64%,500,--,--,--,--,--,0.35,0.35,0 star
+SMCL,GraniteShares 2x Long SMCI Dail,https://finance.yahoo.com/chart/SMCL,16.31,-0.06,-0.40%,"70,315",--,--,--,--,--,2.30,2.30,0 star
+PLTD,Direxion Daily PLTR Bear 1X Sha,https://finance.yahoo.com/chart/PLTD,25.78,+0.38,+1.50%,"248,563",--,--,--,--,--,0.99,0.99,0 star
+TSYY,GraniteShares YieldBOOST TSLA E,https://finance.yahoo.com/chart/TSYY,25.76,+0.12,+0.49%,"8,478",--,--,--,--,--,1.07,1.07,0 star
+PLTU,Direxion Daily PLTR Bull 2X Sha,https://finance.yahoo.com/chart/PLTU,21.56,-0.82,-3.66%,"475,198",--,--,--,--,--,0.99,0.99,0 star
+BUFM,AB Moderate Buffer ETF,https://finance.yahoo.com/chart/BUFM,34.47,-0.23,-0.66%,"4,328",--,--,--,--,--,0.69,0.69,0 star
+BRKU,-,https://finance.yahoo.com/chart/BRKU,22.60,-1.07,-4.52%,"32,915",--,--,--,--,--,0.99,0.99,0 star
+CEPI,-,https://finance.yahoo.com/chart/CEPI,48.36,-0.43,-0.88%,"5,784",--,--,--,--,--,0.85,0.85,0 star
+DVSP,-,https://finance.yahoo.com/chart/DVSP,23.29,-0.41,-1.74%,811,--,--,--,--,--,0.91,0.91,0 star
+BUFI,-,https://finance.yahoo.com/chart/BUFI,34.41,-0.15,-0.43%,195,--,--,--,--,--,0.69,0.69,0 star
+ZAP,Global X U.S. Electrification E,https://finance.yahoo.com/chart/ZAP,24.41,-0.22,-0.89%,"7,002",--,--,--,--,--,0.50,0.50,0 star
+QQLV,-,https://finance.yahoo.com/chart/QQLV,23.08,-0.39,-1.67%,189,--,--,--,--,--,0.25,0.25,0 star
+PCMM,BondBloxx Private Credit CLO ET,https://finance.yahoo.com/chart/PCMM,50.72,+0.03,+0.07%,"9,936",--,--,--,--,--,0.68,0.68,0 star
+MULL,-,https://finance.yahoo.com/chart/MULL,18.79,-0.02,-0.11%,"39,168",--,--,--,--,--,2.30,2.30,0 star
+NVDG,-,https://finance.yahoo.com/chart/NVDG,14.35,-0.91,-5.98%,"31,230",--,--,--,--,--,0.75,0.75,0 star
+TAX,Cambria Tax Aware ETF,https://finance.yahoo.com/chart/TAX,24.28,-0.34,-1.38%,775,--,--,--,--,--,0.49,0.49,0 star
+TSLG,-,https://finance.yahoo.com/chart/TSLG,12.71,-0.01,-0.08%,"97,944",--,--,--,--,--,0.75,0.75,0 star
+QBIG,Invesco Top QQQ ETF,https://finance.yahoo.com/chart/QBIG,31.34,-0.52,-1.63%,"79,077",--,--,--,--,--,0.29,0.29,0 star
+BEEX,-,https://finance.yahoo.com/chart/BEEX,22.21,-0.46,-2.01%,"4,531",--,--,--,--,--,0.84,0.84,0 star
+GFLW,-,https://finance.yahoo.com/chart/GFLW,23.95,-0.27,-1.11%,"16,389",--,--,--,--,--,0.58,0.58,0 star
+DVQQ,-,https://finance.yahoo.com/chart/DVQQ,23.00,-0.34,-1.47%,884,--,--,--,--,--,0.96,0.96,0 star
+FIVY,-,https://finance.yahoo.com/chart/FIVY,45.85,-0.11,-0.24%,"5,387",--,--,--,--,--,0.88,0.88,0 star
+FEAT,-,https://finance.yahoo.com/chart/FEAT,45.51,-0.33,-0.72%,"9,111",--,--,--,--,--,1.28,1.28,0 star
+FSGS,-,https://finance.yahoo.com/chart/FSGS,29.56,-0.31,-1.03%,"2,406",--,--,--,--,--,--,--,0 star
+PQJA,-,https://finance.yahoo.com/chart/PQJA,24.89,-0.22,-0.88%,200,--,--,--,--,--,--,--,0 star
+TSEL,-,https://finance.yahoo.com/chart/TSEL,24.84,-0.48,-1.88%,406,--,--,--,--,--,--,--,0 star
+UBRL,GraniteShares 2x Long UBER Dail,https://finance.yahoo.com/chart/UBRL,19.08,+0.59,+3.19%,"235,184",--,--,--,--,--,--,--,0 star
+CALI,-,https://finance.yahoo.com/chart/CALI,50.25,+0.03,+0.06%,"36,899",--,--,--,--,--,--,--,0 star
+EGGQ,-,https://finance.yahoo.com/chart/EGGQ,39.44,-0.32,-0.80%,"19,580",--,--,--,--,--,--,--,0 star
+HYBI,-,https://finance.yahoo.com/chart/HYBI,51.17,-0.18,-0.36%,"9,083",--,--,--,--,--,--,--,0 star
+OPTZ,Optimize Strategy Index ETF,https://finance.yahoo.com/chart/OPTZ,29.96,+0.53,+1.81%,599,--,--,--,--,--,--,--,0 star
+PQJL,PGIM Nasdaq-100 Buffer 12 ETF -,https://finance.yahoo.com/chart/PQJL,25.19,+0.28,+1.12%,200,--,--,--,--,--,--,--,0 star
+PQOC,PGIM Nasdaq-100 Buffer 12 ETF -,https://finance.yahoo.com/chart/PQOC,25.18,+0.32,+1.31%,36,--,--,--,--,--,--,--,0 star
+PBQQ,PGIM Laddered Nasdaq-100 Buffer,https://finance.yahoo.com/chart/PBQQ,25.18,+0.28,+1.12%,2,--,--,--,--,--,--,--,0 star
+AVXC,Avantis Emerging Markets ex-Chi,https://finance.yahoo.com/chart/AVXC,49.71,+0.65,+1.32%,11,--,--,--,--,--,--,--,0 star
+TSPY,ETF Opportunities Trust - TappAlpha SPY Growth & Daily Income ETF,https://finance.yahoo.com/chart/TSPY,25.25,+0.09,+0.36%,113,--,--,--,--,--,--,--,0 star
